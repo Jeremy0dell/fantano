@@ -1,0 +1,8 @@
+client_secret_958615982309-f47dm2vaqghjj5c1q8aj2si2t2ck6etp.apps.googleusercontent.com.json
+credential_sample.json
+lib
+include
+bin
+__pycache__
+.DS_Store
+secrets.txt
