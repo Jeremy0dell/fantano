@@ -1,115 +1,2285 @@
-score,genres
-err: JAY-Z,err: 4:44
-err: Kaytranada,err: 99.90%
-3.5,Rock
-8.9,Rock
-4.3,"Rap,Folk/Country"
-6.8,Electronic
-7.0,"Metal,Rock"
-7.2,Rap
-6.5,Rap
-7.3,Pop/R&B
-err: The Game,err: 1992
-8.0,Rap
-7.8,
-8.0,Rap
-3.5,Rap
-7.0,Rock
-7.2,Rap
-7.3,Rock
-err: Slipknot,err: .5: The Gray Chapter
-8.8,Pop/R&B
-8.0,Electronic
-err: Anamanaguchi,err: [USA]
-err: Villagers,err: {Awayland}
-err: Arca,err: &&&&& MIX
-8.5,Rock
-err: Sia,err: 1000 Forms of Fear
-7.4,"Experimental,Electronic"
-err: TTNG (This Town Needs Guns),err: 13.0.0.0.0
-6.2,Rap
-8.8,Electronic
-6.9,Rap
-7.9,Electronic
-9.0,Rock
-6.2,Pop/R&B
-6.0,Rap
-err: Flatbush Zombies,err: 3001: A Laced Odyssey
-6.9,Rap
-err: Denzel Curry,err: 32 Zel / Planet Shrooms
-6.0,Rap
-err: Hoax,err: 3rd EP
-6.7,Rap
-7.3,Rap
-err: Big K.R.I.T.,err: 4evaNaDay
-err: Open Mike Eagle,err: 4NML HSPTL
-7.4,Rock
-8.5,Pop/R&B
-7.3,Rock
-err: Da Mafia 6ix,err: 6ix Commandments
-err: Ratking,err: 700-FILL ALBUM /
-err: Tonetta,err: 777 Volume One
-8.2,Electronic
-"err: ""93PUNX, Vic Mensa """,err: 93PUNX
-err: Santigold,err: 99 Cents
-err: Wu-Tang Clan,err: A Better Tomorow
-8.5,Rock
-8.5,Rock
-8.7,Rock
-err: Knocked Loose,err: A Different Shade of Blue
-7.1,Rock
-err: Czarface,err: A Fistful of Peril
-5.9,Rap
-7.7,Rock
-4.8,Rock
-err: Tropical [Frick] Storm,err: A Laughing Death in Meatspace
-7.3,Rap
-6.4,Rap
-6.6,Rap
-err: Trippie Redd,err: A Love Letter to You 4
-9.1,Rock
-8.6,"Electronic,Rock"
-5.9,Rock
-err: Slauson Malone,"err: ""A Quiet Farwell, 2016–2018"""
-8.0,Folk/Country
-8.7,Pop/R&B
-7.9,Experimental
-err: Open Mike Eagle,err: A Special Episode Of
-8.4,Rock
-7.8,Rap
-8.5,"Electronic,Experimental"
-7.5,Rock
-8.0,Metal
-8.4,Rap
-err: M.I.A.,err: A.I.M.
-7.3,Electronic
-8.0,Experimental
-8.0,Metal
-err: Oblivionized,err: Abhorrent Evolution
-8.1,Rock
-7.4,Metal
-err: Paul White ft. Danny Brown,err: Accelerator
-8.4,Rap
-7.2,Experimental
-7.3,Rock
-8.0,Rock
-5.2,"Metal,Rock"
-8.3,Metal
-7.8,Rock
-err: Various Artists,err: Afro-Beat Airways
-7.9,Pop/R&B
-7.5,Rock
-err: A-1,err: After School Special
-err: Dance Gavin Dance,err: Afterburner
-6.5,Experimental
-7.4,
-7.5,Rap
-7.8,Pop/R&B
-8.0,Rock
-8.3,Electronic
-7.6,Folk/Country
-8.1,Rock
-7.5,"Electronic,Rock"
-8.9,Rock
-7.6,Rap
-6.5,Rock
+artist,album,score,genres
+Kaytranada,99.90%,SCORE ERROR,GENRES ERROR
+The Game,1992,SCORE ERROR,GENRES ERROR
+JAY-Z,4:44,SCORE ERROR,GENRES ERROR
+Slipknot,.5: The Gray Chapter,SCORE ERROR,GENRES ERROR
+Sia,1000 Forms of Fear,SCORE ERROR,GENRES ERROR
+TTNG (This Town Needs Guns),13.0.0.0.0,SCORE ERROR,GENRES ERROR
+Hoax,3rd EP,SCORE ERROR,GENRES ERROR
+Villagers,{Awayland},SCORE ERROR,GENRES ERROR
+Flatbush Zombies,3001: A Laced Odyssey,SCORE ERROR,GENRES ERROR
+Arca,&&&&& MIX,SCORE ERROR,GENRES ERROR
+Anamanaguchi,[USA],SCORE ERROR,GENRES ERROR
+Open Mike Eagle,4NML HSPTL,SCORE ERROR,GENRES ERROR
+Denzel Curry,32 Zel / Planet Shrooms,SCORE ERROR,GENRES ERROR
+Big K.R.I.T.,4evaNaDay,SCORE ERROR,GENRES ERROR
+Tonetta,777 Volume One,SCORE ERROR,GENRES ERROR
+Da Mafia 6ix,6ix Commandments,SCORE ERROR,GENRES ERROR
+Ratking,700-FILL ALBUM /,SCORE ERROR,GENRES ERROR
+Santigold,99 Cents,SCORE ERROR,GENRES ERROR
+"""93PUNX, Vic Mensa """,93PUNX,SCORE ERROR,GENRES ERROR
+Wu-Tang Clan,A Better Tomorow,SCORE ERROR,GENRES ERROR
+Knocked Loose,A Different Shade of Blue,SCORE ERROR,GENRES ERROR
+Czarface,A Fistful of Peril,SCORE ERROR,GENRES ERROR
+Denzel Curry,13,7.2,Rap
+Jay Rock,90059,8.0,Rap
+XXXTentacion,17,6.5,Rap
+Queens of the Stone Age,...Like Clockwork,7.3,Rock
+Adele,25,7.3,Pop/R&B
+Cashmere Cat,9,6.8,Electronic
+Lil Nas X,7,4.3,"Rap,Folk/Country"
+A.A.L (Against All Logic),2012 - 2017,8.8,Electronic
+The Roots,...And Then You Shoot Your Cousin,7.2,Rap
+XXXTENTACION,?,3.5,Rap
+Richard Dawson,2020,7.8,
+Beach House,7,8.9,Rock
+Joey Bada$$,1999,8.0,Rap
+J. Cole,2014 Forest Hills Drive,6.9,Rap
+Against All Logic,2017–2019,7.9,Electronic
+The Magnetic Fields,50 Song Memoir,7.4,Rock
+Childish Gambino,3.15.20,6.0,Rap
+Bon Iver,"""22, A Million""",9.0,Rock
+Foxygen,...And Star Power,7.0,Rock
+J. Cole,4 Your Eyez Only,6.7,Rap
+Mac DeMarco,2,3.5,Rock
+Africa Hitech,93 Million Miles,8.2,Electronic
+Ghostface Killah,36 Seasons,6.0,Rap
+Tropical [Frick] Storm,A Laughing Death in Meatspace,SCORE ERROR,GENRES ERROR
+Crystal Castles,(III),8.0,Electronic
+Big K.R.I.T.,4eva Is a Mighty Long Time,7.3,Rap
+David Bowie,★ (Blackstar),8.5,Rock
+King Krule,6 Feet Beneath The Moon,7.3,Rock
+100 gecs,1000 gecs,7.4,"Experimental,Electronic"
+Princess Nokia,1992 Deluxe,6.2,Rap
+Clams Casino,32 Levels,6.9,Rap
+Bruno Mars,24K Magic,6.2,Pop/R&B
+The War On Drugs,A Deeper Understanding,8.7,Rock
+How To Dress Well,"""""""What Is This Heart?""""""",8.8,Pop/R&B
+Mount Eerie,A Crow Looked At Me,8.5,Rock
+Everything Everything,A Fever Dream,7.1,Rock
+Princess Nokia,A Girl Cried Red,5.9,Rap
+Pile,A Hairshirt of Purpose,7.7,Rock
+The 1975,A Brief Inquiry Into Online Relationships,8.5,Rock
+Black Sabbath,13,7.0,"Metal,Rock"
+Kate Bush,50 Words For Snow,8.5,Pop/R&B
+Trippie Redd,A Love Letter to You 4,SCORE ERROR,GENRES ERROR
+Slauson Malone,"""A Quiet Farwell, 2016–2018""",SCORE ERROR,GENRES ERROR
+Open Mike Eagle,A Special Episode Of,SCORE ERROR,GENRES ERROR
+M.I.A.,A.I.M.,SCORE ERROR,GENRES ERROR
+Oblivionized,Abhorrent Evolution,SCORE ERROR,GENRES ERROR
+Paul White ft. Danny Brown,Accelerator,SCORE ERROR,GENRES ERROR
+A-1,After School Special,SCORE ERROR,GENRES ERROR
+Various Artists,Afro-Beat Airways,SCORE ERROR,GENRES ERROR
+Dance Gavin Dance,Afterburner,SCORE ERROR,GENRES ERROR
+Trippie Redd,A Love Letter to You 3,6.6,Rap
+Titus Andronicus,A Productive Cough,5.9,Rock
+Archy Marshall,A New Place 2 Drown,8.6,"Electronic,Rock"
+Trippie Redd,A Love Letter To You 2,6.4,Rap
+Savages,Adore Life,8.0,Rock
+Thee Oh Sees,A Weird Exits,7.5,Rock
+Jay Electronica,A Written Testimony,8.4,Rap
+The Weeknd,After Hours,7.9,Pop/R&B
+Ben Frost,A U R O R A,8.5,"Electronic,Experimental"
+Pharmakon,Abandon,8.0,Experimental
+William Basinski,A Shadow In Time,7.9,Experimental
+Chance The Rapper,Acid Rap,8.4,Rap
+Nine Inch Nails,Add Violence,7.3,Rock
+Willis Earl Beal,Acousmatic Sorcery,7.2,Experimental
+Coldplay,A Head Full of Dreams,4.8,Rock
+Sturgill Simpson,A Sailor's Guide To Earth,8.0,Folk/Country
+Godflesh,A World Lit Only By Fire,8.0,Metal
+PLANNINGTOROCK,All Love's Legal,7.5,"Electronic,Rock"
+Blu & Oh No,A Long Red Hot Los Angeles Summer Night,7.3,Rap
+Oneohtrix Point Never,Age Of,6.5,Experimental
+Gesaffelstein,Aleph,7.8,Pop/R&B
+Chelsea Wolfe,Abyss,8.1,Rock
+Radiohead,A Moon Shaped Pool,9.1,Rock
+Solange,A Seat At The Table,8.7,Pop/R&B
+Milo,A Toothpaste Suburb,7.8,Rap
+Black Milk,Album of the Year,7.5,Rap
+Angel Olsen,All Mirrors,8.9,Rock
+Nails,Abandon All Life,8.0,Metal
+Screaming Females,All at Once,8.0,Rock
+Paramore,After Laughter,7.5,Rock
+Girl Talk,All Day,8.3,Electronic
+Wavves,Afraid of Heights,7.8,Rock
+The Mountain Goats,All Eternals Deck,8.1,Rock
+Baauer,Aa,7.3,Electronic
+Om,Advaitic Songs,5.2,"Metal,Rock"
+Gonjasufi,A Sufi and a Killer,8.4,Rock
+Sufjan Stevens,All Delighted People,7.6,Folk/Country
+The Secret,Agnus Dei,7.4,
+Liturgy,Aesthethica,8.3,Metal
+Absu,Abzu,7.4,Metal
+Watsky,All You Can Do,SCORE ERROR,GENRES ERROR
+The Wytches,All Your Happy Life,SCORE ERROR,GENRES ERROR
+Xiu Xiu,Angel Guts: Red Classroom,SCORE ERROR,GENRES ERROR
+Poppy,Am I a Girl?,SCORE ERROR,GENRES ERROR
+Portugal. The Man,American Ghetto,SCORE ERROR,GENRES ERROR
+Bring Me the Horizon,amo,SCORE ERROR,GENRES ERROR
+The Act of Estimating as Worthless,Amongst These Splintered Minds...,SCORE ERROR,GENRES ERROR
+Corey Feldman,Angelic 2 The Core,SCORE ERROR,GENRES ERROR
+Lil B,Angels Exodus,SCORE ERROR,GENRES ERROR
+Colin Stetson,All This I Do For Glory,7.1,Experimental
+Godspeed You! Black Emperor,Allelujah! Don't Bend! Ascend!,9.3,"Rock,Experimental"
+Atoms For Peace,Amok,6.9,Experimental
+Blood Orange,Angel's Pulse,8.0,Pop/R&B
+Karriem Riggins,Alone Together,7.8,Rap
+Raury,All We Need,6.8,Rap
+JPEGMAFIA,All My Heroes Are Cornballs,7.6,Rap
+Keiji Haino + Sumac,American Dollar Bill,7.3,"Experimental,Metal"
+David Byrne,American Utopia,5.8,Rock
+Earth,"""Angels of Darkness, Demons of Light II""",7.9,Metal
+Joey Bada$$,All-Amerikkkan Bada$$,6.4,Rap
+Alt-J,An Awesome Wave,4.8,Rock
+Lee Bannon,Alternate/Endings,6.8,Electronic
+Blanck Mass,Animated Violence Mild,7.9,Electronic
+LCD Soundsystem,American Dream,8.5,"Electronic,Rock"
+Thee Oh Sees,An Odd Entrances,6.7,Rock
+Rico Nasty & Kenny Beats,Anger Management,7.6,Rap
+The Bug,Angels & Devils,6.7,Electronic
+Rich Brian,Amen,5.9,Rap
+The World Is A Beautiful Place,Always Foreign,8.0,Rock
+A$AP Ferg,Always Strive And Prosper,7.3,Rap
+De La Soul,And The Anonymous Nobody,6.4,Rap
+No Age,An Object,6.2,Rock
+Mac DeMarco,Another One,7.3,Rock
+The Wytches,Annabel Dream Reader,5.8,
+Black Tambourine,Anthology,SCORE ERROR,GENRES ERROR
+Spiritualized,And Nothing Hurt,7.7,"Experimental,Rock"
+Goldlink,"""And After That, We Didn't Talk""",7.3,Rap
+Neil Young & Crazy Horse,Americana,6.1,Rock
+Zammuto,Anchor,5.1,Electronic
+Earth,"""Angels of Darkness, Demons of Light I""",7.9,Metal
+Crystal Castles,Amnesty (I),6.8,Electronic
+Thom Yorke,Anima,8.3,"Electronic,Rock"
+Dan Deacon,America,7.1,Electronic
+Arctic Monkeys,AM,8.0,Rock
+The Libertines,Anthems For Doomed Youth,7.7,Rock
+Converge,All We Love We Leave Behind,8.6,Metal
+Purity Ring,Another Eternity,6.6,Electronic
+My Brightest Diamond,All Things Will Unwind,6.5,Rock
+Wale,Ambition,6.7,Rap
+The Strokes,Angles,5.9,Rock
+Dark Time Sunshine,ANX,SCORE ERROR,GENRES ERROR
+Little Big,Antipositive Part 2 (MINI),SCORE ERROR,GENRES ERROR
+Willow Smith,Ardipithecus,SCORE ERROR,GENRES ERROR
+Rihanna,ANTI,7.7,Pop/R&B
+Benjamin Clementine,At Least For Now,SCORE ERROR,GENRES ERROR
+Boots,AQUɅRIA,SCORE ERROR,GENRES ERROR
+Lady Gaga,Artpop,SCORE ERROR,GENRES ERROR
+A$AP Rocky,At. Long. Last. A$AP,SCORE ERROR,GENRES ERROR
+Outkast,ATLiens,SCORE ERROR,GENRES ERROR
+The Faceless,Autotheism,SCORE ERROR,GENRES ERROR
+Mumford & Sons,Babel,SCORE ERROR,GENRES ERROR
+The Front Bottoms,Back On Top,SCORE ERROR,GENRES ERROR
+M.E.D. Blu and Madlib,Bad Neighbor,SCORE ERROR,GENRES ERROR
+Ondatrópica,Baile Bucanero,SCORE ERROR,GENRES ERROR
+Bill Callahan,Apocalypse,8.0,Rock
+Grimes,Art Angels,8.5,Pop/R&B
+Napalm Death,Apex Predator -- Easy Meat,7.9,Metal
+Steve Lacy,Apollo XXI,6.9,Pop/R&B
+Woods,At Echo Lake,8.0,Rock
+Ibeyi,Ash,8.3,Global
+Alvvays,Antisocialites,7.3,Rock
+Sufjan Stevens & Lowell Brams,Aporia,6.8,"Folk/Country,Electronic"
+Godspeed You! Black Emperor,"""Asunder, Sweet and Other Distress""",7.6,"Rock,Experimental"
+Toro Y Moi,Anything In Return,7.9,Electronic
+THEESatisfaction,awE naturalE,7.5,Rock
+GoldLink,At What Cost,7.5,Rap
+Sharon Van Etten,Are We There,8.2,Rock
+Liam Gallagher,As You Were,4.9,Rock
+Ghostface Killah,Apollo Kids,7.3,Rap
+Kurt Vile,B'lieve I'm Goin Down...,8.4,Rock
+Beach House,B-Sides and Rarities,6.9,Rock
+Thundercat,Apocalypse,8.2,"Jazz,Pop/R&B"
+James Blake,Assume Form,5.8,Pop/R&B
+of Montreal,Aureate Gloom,7.0,Rock
+Childish Gambino,"""Awaken, My Love!""",7.2,Rap
+White Hinterland,Baby,7.2,Rock
+Justice,"""Audio, Video, Disco""",5.3,Electronic
+Kevin Abstract,Arizona Baby,6.9,Rap
+Post Malone,August 26th,5.2,Rap
+Cloud Nothings,Attack On Memory,8.6,Rock
+Tycho,Awake,7.0,Electronic
+Panopticon,Autumn Eternal,7.5,Metal
+Sir Michael Rocks,Banco,SCORE ERROR,GENRES ERROR
+Danny Brown,Atrocity Exhibition,8.5,Rap
+Travis Scott,Astroworld,7.8,Rap
+Julia Holter,Aviary,8.2,Experimental
+Real Estate,Atlas,8.8,Rock
+Joey Bada$$,B4.DA.$$,7.0,Rap
+Shlohmo,Bad Vibes,7.8,Electronic
+Nine Inch Nails,Bad Witch,8.0,Rock
+Joji,Ballads 1,6.7,Pop/R&B
+Teebs,Ardour,8.0,Electronic
+Jesu,Ascension,7.0,"Metal,Rock"
+Johnny Cash,At Folsom Prison,9.7,Folk/Country
+Tom Waits,Bad As Me,8.1,Rock
+"""Tyler, The Creator""",Bastard,SCORE ERROR,GENRES ERROR
+BADBADNOTGOOD,BBNG2,SCORE ERROR,GENRES ERROR
+Comethazine,Bawskee 2,SCORE ERROR,GENRES ERROR
+BADBADNOTGOOD,BBNG,SCORE ERROR,GENRES ERROR
+Flatbush Zombies,BetterOffDEAD,SCORE ERROR,GENRES ERROR
+Revenge,Behold.Total.Rejection,SCORE ERROR,GENRES ERROR
+Burzum,Belus,SCORE ERROR,GENRES ERROR
+Hail Mary Mallon,Bestiary,SCORE ERROR,GENRES ERROR
+The World Is A Beautiful Place...,Between Bodies,SCORE ERROR,GENRES ERROR
+Pearls Negras,Biggie Apple EP /,SCORE ERROR,GENRES ERROR
+The Debauchees,Big Machines and Peculiar Beings,SCORE ERROR,GENRES ERROR
+Chelsea Wolfe,Birth of Violence,SCORE ERROR,GENRES ERROR
+Phoenix,Bankrupt!,7.5,Rock
+Electric Wizard,Black Masses,SCORE ERROR,GENRES ERROR
+Freddie Gibbs & Madlib,Bandana,8.1,Rap
+Blonde Redhead,Barragán,4.3,Rock
+Quelle Chris,"""Being You Is Great, I Wish I Could Be You More Often""",7.6,Rap
+2 Chainz,Based on a T.R.U. Story,4.5,Rap
+Post Malone,beerbongs & bentleys,5.6,Rap
+Big Ups,Before A Million Universes,7.6,Rock
+Squarepusher,Be Up a Hello,6.4,Electronic
+Hop Along,"""Bark Your Head Off, Dog""",8.0,Rock
+Villagers,Becoming A Jackal,6.9,Rock
+Mitski,Be the Cowboy,8.8,Rock
+Ski Mask the Slump God,Beware the Book of Eli,7.9,Rap
+Childish Gambino,Because The Internet,5.8,Rap
+Iceage,Beyondless,8.6,Rock
+Four Tet,Beautiful Rewind,7.4,Electronic
+The Morning Benders,Big Echo,8.2,Rock
+Crying,Beyond the Fleeting Gales,7.1,Electronic
+D'Angelo and The Vanguard,Black Messiah,SCORE ERROR,GENRES ERROR
+Young Thug,Barter 6,8.4,Rap
+Björk,Biophilia,6.2,"Electronic,Pop/R&B"
+Babyfather,BBF (Hosted by DJ Escrow),6.0,Electronic
+Vince Staples,Big Fish Theory,8.7,Rap
+Travis Scott,Birds In the Trap Sing McKnight,7.2,Rap
+Woods,Bend Beyond,8.1,Rock
+Pharmakon,Bestial Burden,8.4,Experimental
+Stella Donnelly,Beware of the Dogs,7.6,Rock
+Matthew Dear,Beams,7.3,Electronic
+D.R.A.M.,Big Baby D.R.A.M.,7.8,Rap
+Alex G,Beach Music,7.2,Rock
+Young Thug,Beautiful Thugger Girls,8.0,Rap
+Scott Walker,Bish Bosch,8.0,Rock
+The Weeknd,Beauty Behind the Madness,7.2,Pop/R&B
+Sun Kil Moon,Benji,9.2,Folk/Country
+Various Artists,Black Panther The Album,SCORE ERROR,GENRES ERROR
+The Mountain Goats,Beat The Champ,6.6,Rock
+Lil B,Black Ken,8.5,Rap
+Common,Black America Again,7.9,Rap
+Ariel Pink's Haunted Graffiti,Before Today,9.0,"Experimental,Rock"
+The Pains of Being Pure at Heart,Belong,8.2,Rock
+Matthew Dear,Black City,8.4,Electronic
+Miles Davis,Bitches Brew,9.5,Jazz
+Black Milk & Danny Brown,Black & Brown,6.5,Rap
+Dean Blunt,Black Metal,7.3,Experimental
+Mariam The Believer,Blood Donation,SCORE ERROR,GENRES ERROR
+Sisu,Blood Tears,SCORE ERROR,GENRES ERROR
+Twenty One Pilots,Blurryface,SCORE ERROR,GENRES ERROR
+The I.L.Y's,Bodyguard,SCORE ERROR,GENRES ERROR
+Kero Kero Bonito,Bonito Generation,SCORE ERROR,GENRES ERROR
+Show Me The Body,Body War,SCORE ERROR,GENRES ERROR
+Lady Gaga,Born This Way,SCORE ERROR,GENRES ERROR
+Marilyn Manson,Born Villain,SCORE ERROR,GENRES ERROR
+Tropical [Frick] Storm,Braindrops,SCORE ERROR,GENRES ERROR
+Various Artists,Brand New Wayo,SCORE ERROR,GENRES ERROR
+Kirin J Callinan,Bravado,SCORE ERROR,GENRES ERROR
+DaBaby,Blame It on Baby,6.8,Rap
+Lianne La Havas,Blood,7.7,Pop/R&B
+ScHoolboy Q,Blank Face,8.3,Rap
+Xenia Rubinos,Black Terry Cat,8.0,Rock
+wifisfuneral,Boy Who Cried Wolf,6.0,Rap
+Death Grips,Bottomless Pit,8.1,"Experimental,Rap"
+Action Bronson & Party Supplies,Blue Chips 2,8.0,Rap
+The Kills,Blood Pressures,6.4,"Electronic,Rock"
+Trap Them,Blissfucker,7.3,"Metal,Rock"
+iamamiwhoami,Blue,6.1,"Electronic,Rock"
+Action Bronson,Blue Chips 7000,7.4,Rap
+J. Cole,Born Sinner,6.0,Rap
+Coma Cinema,Blue Suicide,7.2,
+Beach House,Bloom,9.1,Rock
+Jack White,Blunderbuss,7.8,Rock
+Logic,Bobby Tarantino II,6.7,Rap
+Idles,Brutalism,SCORE ERROR,GENRES ERROR
+Jack White,Boarding House Reach,6.6,Rock
+Logic,Bobby Tarantino,6.7,Rap
+Kurt Vile,Bottle It In,7.0,Rock
+The Gaslamp Killer,Breakthrough,7.7,Rap
+The Chemical Brothers,Born In the Echoes,7.8,Electronic
+Melody's Echo Chamber,Bon Voyage,7.1,Rock
+Cannibal Ox,Blade of the Ronin,6.7,Rap
+AlunaGeorge,Body Music,7.6,Pop/R&B
+Lana Del Rey,Born to Die,5.5,Pop/R&B
+Carla Bozulich,Boy,7.6,Experimental
+Toro y Moi,Boo Boo,6.9,Electronic
+Frank Ocean,Blonde,9.0,Pop/R&B
+milo,budding ornithologists are weary of tired analogies,SCORE ERROR,GENRES ERROR
+Deerhoof,Breakup Song,7.2,Experimental
+Open Mike Eagle,Brick Body Kids Still Daydream,8.1,Rap
+Girl Talk & Freeway,Broken Ankles,7.4,"Electronic,Rap"
+Girls,Broken Dreams Club,8.7,Rock
+Shabazz Palaces,Black Up,8.8,Rap
+Broken Bells,Broken Bells,5.4,"Electronic,Rock"
+Azealia Banks,Broke With Expensive Taste,8.0,Rap
+MellowHype,BlackenedWhite,8.0,Rap
+Goatwhore,Blood For the Master,4.8,Metal
+Bon Iver,Bon Iver,8.8,Rock
+Pig Destroyer,Book Burner,8.0,Metal
+Mac Miller,Blue Slide Park,1.0,Rap
+AFI,Burials,SCORE ERROR,GENRES ERROR
+Lee Scott,Butter Fly,SCORE ERROR,GENRES ERROR
+The Underachievers,Cellar Door: Terminus Ut Exordium,SCORE ERROR,GENRES ERROR
+Okonkolo,Cantos,SCORE ERROR,GENRES ERROR
+Toxic Holocaust,Chemistry of Consciousness,SCORE ERROR,GENRES ERROR
+Primitive Man,Caustic,SCORE ERROR,GENRES ERROR
+Milo,Cavalcade,SCORE ERROR,GENRES ERROR
+Iglooghost,Chinese Nü Yr,SCORE ERROR,GENRES ERROR
+Poppy,Choke,SCORE ERROR,GENRES ERROR
+Ween,Chocolate and Cheese,SCORE ERROR,GENRES ERROR
+Andrew Jackson Jihad,Christmas Island,SCORE ERROR,GENRES ERROR
+Hiatus Kaiyote,Choose Your Weapon,SCORE ERROR,GENRES ERROR
+Isaiah Rashad,Cilvia Demo ALBUM / MIXTAPE /,SCORE ERROR,GENRES ERROR
+Darkthrone,Circle the Wagons,SCORE ERROR,GENRES ERROR
+Uncommon Nasa & Kount Fif,City as School,SCORE ERROR,GENRES ERROR
+Panda Bear,Buoys,7.6,Electronic
+Daniel Caesar,Case Study 01,6.7,Pop/R&B
+Candy Claws,Ceres & Calypso In The Deep Time,7.6,Pop/R&B
+Gonjasufi,Callus,7.6,Rock
+Disclosure,Caracal,6.6,Electronic
+Meek Mill,Championships,7.7,Rap
+Chromeo,Business Casual,6.9,Electronic
+Angel Olsen,Burn Your Fire For No Witness,8.3,Rock
+Lingua Ignota,Caligula,8.1,Experimental
+Ty Dolla $ign,Campaign,6.9,Rap
+Chet Faker,Built On Glass,7.3,Electronic
+Wolves In the Throne Room,Celestial Lineage,8.6,Metal
+Erykah Badu,But You Caint Use My Phone,8.1,Pop/R&B
+"""Tyler, The Creator """,Cherry Bomb,6.7,Rap
+Sufjan Stevens,Carrie & Lowell,7.2,Folk/Country
+Blink-182,California,5.5,Rock
+Woods,City Sun Eater in the River of Light,7.6,Rock
+Snoop Dogg,Bush,6.5,Rap
+Baths,Cerulean,8.2,Electronic
+Wolves In the Throne Room,Celestite,5.2,Metal
+Drake,Care Package,8.1,Rap
+Saba,CARE FOR ME,8.7,Rap
+El-P,Cancer For Cure,8.5,Rap
+Mac Miller,Circles,7.4,Rap
+Blarf,Cease & Desist,6.1,Experimental
+Big K.R.I.T.,Cadillactica,7.5,Rap
+Childish Gambino,Camp,1.6,Rap
+Animal Collective,Centipede Hz,7.4,Experimental
+My Morning Jacket,Circuital,7.2,Rock
+Nicolas Jaar,Cenizas,8.0,Electronic
+Japandroids,Celebration Rock,8.8,Rock
+Kim Petras,Clarity,7.2,Pop/R&B
+The Black Keys,Brothers,7.7,Rock
+The Pop Group,Citizen Zombie,2.4,Rock
+Charli XCX,Charli,6.8,Pop/R&B
+The Antlers,Burst Apart,8.2,"Experimental,Rock"
+Cerebral Ballzy,Cerebral Ballzy,4.8,"Metal,Rock"
+Frank Ocean,Channel Orange,9.5,Pop/R&B
+Rush,Clockwork Angels,SCORE ERROR,GENRES ERROR
+Beach Fossils,Clash The Truth,5.8,"Experimental,Rock"
+Cynic,Carbon-Based Anatomy,7.6,"Jazz,Metal"
+Clockwork Indigo,Clockwork Indigo EP,SCORE ERROR,GENRES ERROR
+H-SIK,Cocody,SCORE ERROR,GENRES ERROR
+Kayo Dot,Coffins On Io,SCORE ERROR,GENRES ERROR
+Charlie Haden & Hank Jones,Come Sunday,SCORE ERROR,GENRES ERROR
+Various Artists,Cloud Cuckooland,SCORE ERROR,GENRES ERROR
+Various Artists,Coalmine Records Presents: Unearthed,SCORE ERROR,GENRES ERROR
+Logic,Confessions of a Dangerous Mind,SCORE ERROR,GENRES ERROR
+Yes,Close to the Edge,8.1,Rock
+Matana Roberts,Coin Coin Chapter 3: River Run Thee,SCORE ERROR,GENRES ERROR
+Matana Roberts,COIN COIN Chapter Four: Memphis,SCORE ERROR,GENRES ERROR
+Matana Roberts,Coin Coin Chapter One: Gens de Couleur Libres,SCORE ERROR,GENRES ERROR
+J. Cole,Cole World: The Sideline Story,SCORE ERROR,GENRES ERROR
+Toxic Holocaust,Conjure and Command,SCORE ERROR,GENRES ERROR
+Weatherday,Come in,SCORE ERROR,GENRES ERROR
+Apathy,Connecticut Casual,SCORE ERROR,GENRES ERROR
+Havok,Conformicide,SCORE ERROR,GENRES ERROR
+Quality Control,"""Control The Streets, Vol. 1""",SCORE ERROR,GENRES ERROR
+A$AP Mob,Cozy Tapes Vol. 2: Too Cozy,SCORE ERROR,GENRES ERROR
+USA Out of Vietnam,Crashing Diseases and Incurable Airplanes,SCORE ERROR,GENRES ERROR
+Grave Babies,Crusher,SCORE ERROR,GENRES ERROR
+Various Artists,Cruel Summer,SCORE ERROR,GENRES ERROR
+Young Fathers,Cocoa Sugar,7.3,Rap
+Iglooghost,Clear Tamei / Steel Mogu,7.2,Electronic
+clipping.,CLPPNG,5.6,Rap
+Park Jiha,Communion,7.0,Jazz
+Iron Reagan,Crossover Ministry,6.7,Metal
+Forest Swords,Compassion,7.8,Experimental
+The xx,Coexist,7.5,"Electronic,Pop/R&B"
+Beck,Colors,6.3,Rock
+Mount Eerie,Clear Moon,8.3,Rock
+Flying Lotus,Cosmogramma,8.8,Electronic
+Foo Fighters,Concrete and Gold,6.5,Rock
+Fleet Foxes,Crack-Up,8.7,Folk/Country
+Best Coast,Crazy For You,8.4,Rock
+Sun Kil Moon,Common As Light And Love Are Red Valleys Of Blood,6.5,Folk/Country
+Ravyn Lenae,Crush,7.9,Pop/R&B
+Kings of Leon,Come Around Sundown,3.6,Rock
+David Lynch,Crazy Clown Time,6.1,"Experimental,Rock"
+Migos,Culture,6.4,Rap
+ScHoolboy Q,CrasH Talk,6.7,Rap
+Chance The Rapper,Coloring Book,9.1,Rap
+Aphex Twin,Collapse,8.1,Electronic
+Timber Timbre,Creep On Creepin' On,6.7,Folk/Country
+Dr. Dre,Compton,8.8,Rap
+Black Moth Super Rainbow,Cobra Juicy,7.6,Electronic
+MGMT,Congratulations,6.8,Rock
+Daymé Arocena,Cubafonía,7.6,Global
+Lil Peep,"""Come Over When You're Sober, Pt. 2""",7.2,Rap
+The Strokes,Comedown Machine,6.1,Rock
+Gorguts,Colored Sands,8.2,
+Mount Kimbie,Cold Spring Fault Less Youth,7.7,Electronic
+SZA,Ctrl,8.4,Pop/R&B
+Migos,Culture II,6.4,Rap
+Blood Orange,Cupid Deluxe,8.5,Pop/R&B
+Twin Shadow,Confess,8.6,Rock
+The Radio Dept.,Clinging To A Scheme,8.3,Pop/R&B
+Cults,Cults,6.6,Rock
+Tame Impala,Currents,9.3,Rock
+Abe Vigoda,Crush,7.8,"Experimental,Rock"
+Death Cab for Cutie,Codes and Keys,5.0,Rock
+Ab-Soul,Control System,8.1,Rap
+Czarface & Ghostface Killah,Czarface Meets Ghostface,SCORE ERROR,GENRES ERROR
+Rotten Sound,Cursed,SCORE ERROR,GENRES ERROR
+Big Blood,Dark Country Magic,SCORE ERROR,GENRES ERROR
+CZARFACE & MF DOOM,Czarface Meets Metal Face,6.4,Rap
+Dangermouse and Sparklehorse,Dark Night of the Soul,SCORE ERROR,GENRES ERROR
+Circles Takes the Square,Decompositions: Volume Number One,SCORE ERROR,GENRES ERROR
+Trap Them,Darker Handcraft,SCORE ERROR,GENRES ERROR
+Anna von Hausswolff,Dead Magic,SCORE ERROR,GENRES ERROR
+6ix9ine,Day69,SCORE ERROR,GENRES ERROR
+Cattle Decapitation,Death Atlas,SCORE ERROR,GENRES ERROR
+Travi$ Scott,Days Before Rodeo,SCORE ERROR,GENRES ERROR
+Felix Blume,Death In Haiti: Funeral Brass Bands & Sounds From Port Au Prince,SCORE ERROR,GENRES ERROR
+Lord Mantis,Death Mask,SCORE ERROR,GENRES ERROR
+Young Fathers,Dead,SCORE ERROR,GENRES ERROR
+Teenage Cool Kids,Denton After Sunset,SCORE ERROR,GENRES ERROR
+Deftones,Diamond Eyes,SCORE ERROR,GENRES ERROR
+Wormrot,Dirge,SCORE ERROR,GENRES ERROR
+Noveller,Desert Fires,SCORE ERROR,GENRES ERROR
+Beady Eye,"""Different Gear, Still Speeding""",SCORE ERROR,GENRES ERROR
+The Orwells,Disgracedland,SCORE ERROR,GENRES ERROR
+Twitching Tongues,Disharmony,SCORE ERROR,GENRES ERROR
+Ed Sheeran,Divide,SCORE ERROR,GENRES ERROR
+Ibibio Sound Machine,Doko Mien,SCORE ERROR,GENRES ERROR
+Emeralds,Does It Look Like I'm Here?,SCORE ERROR,GENRES ERROR
+Oliver Tree,Do You Feel Me?,SCORE ERROR,GENRES ERROR
+Dos Monos,Dos City,SCORE ERROR,GENRES ERROR
+Juice WRLD,Death Race for Love,6.8,Rap
+Squarepusher,Damogen Furies,7.3,Electronic
+Lizzo,Cuz I Love You,6.5,"Pop/R&B,Rap"
+Big Sean,Dark Sky Paradise,7.1,Rap
+Kendrick Lamar,DAMN.,9.2,Rap
+Playboi Carti,Die Lit,8.5,Rap
+Deerhoof,Deerhoof vs Evil,6.7,Experimental
+The Tallest Man On Earth,Dark Bird Is Home,6.7,Folk/Country
+J.I.D,DiCaprio 2,7.7,Rap
+Tony Molina,Dissed and Dismissed,7.5,Rock
+Smokepurpp,Deadstar,6.2,Rap
+Ariel Pink,Dedicated to Bobby Jameson,8.2,Rock
+Carly Rae Jepsen,Dedicated,7.3,Pop/R&B
+Dr. Yen Lo,Days With Dr. Yen Lo,8.0,Rap
+Foxing,Dealer,7.6,Rock
+High On Fire,De Vermis Mysteriis,8.2,Metal
+The Dillinger Escape Plan,Dissociation,6.9,Metal
+Joanna Newsom,Divers,8.5,Folk/Country
+Jessie Ware,Devotion,8.5,Pop/R&B
+Janelle Monáe,Dirty Computer,7.7,Pop/R&B
+Rejjie Snow,Dear Annie,5.5,Rap
+Ab-Soul,Do What Thou Wilt.,4.4,Rap
+Beach House,Depression Cherry,8.4,Rock
+Sleaford Mods,Divide & Exit,7.8,Rock
+Shlohmo,Dark Red,5.9,Electronic
+Pusha T,DAYTONA,8.3,Rap
+Show Me the Body,Dog Whistle,6.8,Rock
+Hellfyre Club,Dorner vs. Tookie,7.5,
+Open Mike Eagle,Dark Comedy,8.0,Rap
+Health,Death Magic,7.8,Rock
+Haim,Days Are Gone,8.3,Rock
+Earl Sweatshirt,Doris,8.3,Rap
+Big Sean & Metro Boomin,Double or Nothing,5.4,Rap
+Bill Callahan,Dream River,8.5,Rock
+Tribulation,Down Below,8.0,Metal
+The Gaslamp Killer,Death Gate,7.5,Rap
+Fucked Up,David Comes to Life,8.6,Metal
+Pile,Dripping,SCORE ERROR,GENRES ERROR
+Daft Punk,Discovery,6.4,Electronic
+Avey Tare,Down There,7.9,Experimental
+Billy Woods,Dour Candy,7.8,Rap
+Injury Reserve,Drive It Like It's Stolen,SCORE ERROR,GENRES ERROR
+Gucci Mane & Metro Boomin,Drop Top Wop,SCORE ERROR,GENRES ERROR
+Cormorant,Dwellings,SCORE ERROR,GENRES ERROR
+Ghoul,Dungeon Bastards,SCORE ERROR,GENRES ERROR
+Future,DS2,SCORE ERROR,GENRES ERROR
+Megadeth,Dystopia,SCORE ERROR,GENRES ERROR
+Yucky Duster,Duster's Lament,SCORE ERROR,GENRES ERROR
+Gucci Mane,El Gato: The Human Glacier,SCORE ERROR,GENRES ERROR
+Busdriver,Electricity is on our Side,SCORE ERROR,GENRES ERROR
+Dumbo Gets Mad,Elephants at the Door,SCORE ERROR,GENRES ERROR
+Elzhi,Elmatic,SCORE ERROR,GENRES ERROR
+Carly Rae Jepsen,Emotion: Side B,SCORE ERROR,GENRES ERROR
+Ameer Vann,Emmanuel,SCORE ERROR,GENRES ERROR
+Carly Rae Jepsen,Emotion,SCORE ERROR,GENRES ERROR
+John Frusciante,Enclosure,SCORE ERROR,GENRES ERROR
+Street Sects,End Position,SCORE ERROR,GENRES ERROR
+Anamanaguchi,Endless Fantasy,SCORE ERROR,GENRES ERROR
+Black Curse,Endless Wound,SCORE ERROR,GENRES ERROR
+TOAD,Endless Night,SCORE ERROR,GENRES ERROR
+Wu-Tang Clan,Enter the Wu-Tang: 36 Chambers,SCORE ERROR,GENRES ERROR
+Lupe Fiasco,DROGAS Wave,6.2,Rap
+THEESatisfaction,EarthEE,6.8,Rock
+Deathspell Omega,Drought,6.7,Metal
+Gunna,Drip or Drown 2,6.7,Rap
+6ix9ine,Dummy Boy,3.4,Rap
+Meek Mill,Dreams Worth More Than Money,7.4,Rap
+Battles,Dross Glop,7.8,Rock
+Dawn of Midi,Dysnomia,7.9,
+Thundercat,Drunk,7.4,"Jazz,Pop/R&B"
+ECCO2K,E,7.4,Electronic
+Lupe Fiasco,DROGAS Light,7.4,Rap
+A Perfect Circle,Eat the Elephant,4.9,Rock
+Heems,Eat Pray Thug,6.3,Rap
+Rosalía,El mal querer,8.8,Pop/R&B
+Daniel Avery,Drone Logic,7.2,Electronic
+Mastodon,Emperor of Sand,7.6,Metal
+Shellac,Dude Incredible,8.0,Rock
+High on Fire,Electric Messiah,7.8,Metal
+LCD Soundsystem,Electric Lady Sessions,7.9,"Electronic,Rock"
+Holy Ghost!,Dynamics,6.3,"Electronic,Rock"
+Zombi,Escape Velocity,SCORE ERROR,GENRES ERROR
+6LACK,East Atlanta Love Letter,6.1,Pop/R&B
+Twin Shadow,Eclipse,4.9,Rock
+Muse,Drones,4.5,Rock
+Blanck Mass,Dumb Flesh,7.6,Electronic
+Interpol,El Pintor,5.9,Rock
+The Internet,Ego Death,7.4,Pop/R&B
+The Weeknd,Echoes of Silence,8.1,Pop/R&B
+Captain Murphy,Duality,8.0,Rap
+Big Ups,Eighteen Hours of Static,7.0,Rock
+Gnaw Their Tongues,Eschatological Scatology,SCORE ERROR,GENRES ERROR
+B.o.B,Ether,SCORE ERROR,GENRES ERROR
+Czarface,Every Hero Needs A Villain,SCORE ERROR,GENRES ERROR
+The Underachievers,Evermore: The Art of Duality,SCORE ERROR,GENRES ERROR
+Avey Tare's Slasher Flicks,Enter The Slasher House,7.3,"Experimental,Rock"
+Ty Segall,Emotional Mugger,7.3,Rock
+Citizen,Everybody Is Going To Heaven,SCORE ERROR,GENRES ERROR
+$uicideboy$,Eternal Grey,SCORE ERROR,GENRES ERROR
+Frank Ocean,Endless,9.0,Pop/R&B
+Sampha,DUAL,7.4,Electronic
+Sleaford Mods,English Tapas,7.9,Rock
+Jean Grae x Quelle Chris,Everything's Fine,SCORE ERROR,GENRES ERROR
+Boogie,Everythings for Sale,SCORE ERROR,GENRES ERROR
+KEN mode,Entrench,8.2,Metal
+CupcakKe,Ephorize,8.3,Rap
+Burzum,Fallen,SCORE ERROR,GENRES ERROR
+Smith Westerns,Dye It Blonde,8.4,Rock
+The Black Keys,El Camino,7.4,Rock
+DJ Shadow,Endtroducing.....,10.0,Electronic
+James Blake,Enough Thunder,6.4,Pop/R&B
+Neon Indian,Era Extraña,7.9,Electronic
+Mayhem,Esoteric Warfare,7.6,Metal
+Princess Nokia,Everything Is Beautiful & Everything Sucks,7.1,Rap
+Jaden,ERYS,4.7,Rap
+Lil Uzi Vert,Eternal Atake,6.9,Rap
+Bladee,Exeter,7.2,
+Lil Peep,Everybody's Everything,7.4,Rap
+Foals,Everything Not Saved Will Be Lost Part 1,6.0,Rock
+Logic,Everybody,5.2,Rap
+The Carters,Everything Is Love,8.2,"Pop/R&B,Rap"
+Damon Albarn,Everyday Robots,7.0,Rock
+Sharon Van Etten,Epic,7.8,Rock
+Autechre,Exai,5.9,Electronic
+Rapsody,Eve,8.0,Rap
+The Drones,Feelin' Kinda Free,SCORE ERROR,GENRES ERROR
+Gucci Mane,Everybody Looking,7.0,Rap
+Oh Sees,Face Stabber,6.6,Rock
+Vein,Errorzone,7.8,Metal
+No Age,Everything In Between,8.8,Rock
+Death Grips,Exmilitary,7.5,"Experimental,Rap"
+Weezer,Everything Will Be Alright In The End,6.5,Rock
+Future,EVOL,7.3,Rap
+CHVRCHES,Every Open Eye,7.7,Pop/R&B
+Yo La Tengo,Fade,8.1,Rock
+Coldplay,Everyday Life,6.8,Rock
+Arcade Fire,Everything Now,5.6,Rock
+Mac Miller,Faces,7.3,Rap
+Kylesa,Exhausting Fire,7.4,Metal
+of Montreal,False Priest,6.7,Rock
+Andy Stott,Faith In Strangers,8.4,Electronic
+Lightning Bolt,Fantasy Empire,8.0,Rock
+Deerhunter,Fading Frontier,8.4,Rock
+Death Grips,Fashion Week,6.6,"Experimental,Rap"
+Offset,Father of 4,6.9,Rap
+The Haxan Cloak,Excavation,8.7,Experimental
+Green Day,Father of All...,6.7,Rock
+Zach Hill,Face Tat,7.5,Experimental
+Vampire Weekend,Father of the Bride,8.0,Rock
+Wolf Parade,Expo 86,7.5,Rock
+Judas Priest,Firepower,SCORE ERROR,GENRES ERROR
+Dorian Electra,Flamboyant,SCORE ERROR,GENRES ERROR
+Injury Reserve,Floss,SCORE ERROR,GENRES ERROR
+RP Boo,"""Fingers, Bank Pads & Shoeprints""",SCORE ERROR,GENRES ERROR
+Title Fight,Floral Green,SCORE ERROR,GENRES ERROR
+Sinjin Hawke,First Opus,SCORE ERROR,GENRES ERROR
+Waka Flocka Flame,Flockaveli 1.5,SCORE ERROR,GENRES ERROR
+King Gizzard and the Lizard Wizard,Flying Microtonal Banana,SCORE ERROR,GENRES ERROR
+Bedwetter,Flick Your Tongue Against Your Teeth and Describe the Present,SCORE ERROR,GENRES ERROR
+Girls,"""Father, Son, Holy Ghost""",9.3,Rock
+Shad,Flying Colours,SCORE ERROR,GENRES ERROR
+Tool,Fear Inoculum,5.4,Metal
+Lupe Fiasco,Food & Liquor 2: The Great American Rap Album Pt. 1,SCORE ERROR,GENRES ERROR
+Calvaiire,Forceps,SCORE ERROR,GENRES ERROR
+James Ferraro,Four Pieces for Mirai,SCORE ERROR,GENRES ERROR
+Lil Wayne,Free Weezy Album,SCORE ERROR,GENRES ERROR
+Chris Stapleton,From A Room: Volume 1,SCORE ERROR,GENRES ERROR
+Chris Stapleton,"""From A Room, Vol. 2""",SCORE ERROR,GENRES ERROR
+Soap&Skin,From Gas to Solid / You Are My Friend,SCORE ERROR,GENRES ERROR
+Silver Mount Zion,Fuck Off Get Free We Pour Light On Everything,SCORE ERROR,GENRES ERROR
+Melt-Banana,Fetch,7.8,"Experimental,Rock"
+Fiona Apple,Fetch the Bolt Cutters,10.0,Rock
+Megan Thee Stallion,Fever,8.0,Rap
+King Gizzard & The Lizard Wizard,Fishing for Fishies,4.8,Rock
+Sleepy Sun,Fever,6.1,Rock
+Armand Hammer,Furtive Movements,SCORE ERROR,GENRES ERROR
+Earl Sweatshirt,Feet of Clay,8.4,Rap
+"""Curren$y, Freddie Gibbs & The Alchemist """,Fetti,8.0,Rap
+Twin Shadow,Forget,8.4,Rock
+A$AP Ferg,Ferg Forever,6.4,Rap
+Modern Life Is War,Fever Hunting,7.9,
+Chief Keef,Finally Rich,7.5,Rap
+John Talabot,fin,8.5,Electronic
+Code Orange,Forever,7.5,Metal
+Off!,First Four EPs,8.5,"Metal,Rock"
+Thee Oh Sees,Floating Coffin,8.0,Rock
+Macintosh Plus,Floral Shoppe,8.8,"Electronic,Experimental"
+Flying Lotus,Flamagra,7.8,Electronic
+Vince Staples,FM!,8.2,Rap
+Harry Styles,Fine Line,6.0,Pop/R&B
+Teen Daze,Four More Years,7.1,Rock
+Pallbearer,Foundations of Burden,8.6,Metal
+Refused,Freedom!,5.4,Rock
+Marissa Nadler,For My Crimes,7.2,Folk/Country
+Xiu Xiu,Forget,6.4,"Experimental,Rock"
+Bloc Party,Four,4.9,Rock
+Daniel Caesar,Freudian,7.3,Pop/R&B
+"""Tyler, the Creator """,Flower Boy,8.5,Rap
+Neurosis,Fires Within Fires,7.1,Metal
+Indian,From All Purity,8.2,"Metal,Rock"
+Bones,Garbage,SCORE ERROR,GENRES ERROR
+Blood Orange,Freetown Sound,8.8,Pop/R&B
+Lil Wayne,Funeral,7.3,Rap
+Ty Dolla $ign,Free TC,7.7,Rap
+Holograms,Forever,7.1,
+Alex Cameron,Forced Witness,7.8,Rock
+Ty Segall,Freedom's Goblin,8.1,Rock
+Calvin Harris,Funk Wav Bounces Vol. 1,6.7,Electronic
+Machine Gun Kelly,General Admission,SCORE ERROR,GENRES ERROR
+Prurient,Frozen Niagara Falls,8.5,Experimental
+Freddie Gibbs,Freddie,8.1,Rap
+Full of Hell,Full of Hell & Merzbow,5.5,"Experimental,Metal"
+Broken Social Scene,Forgiveness Rock Record,8.3,Rock
+Lim Kim,Generasian,SCORE ERROR,GENRES ERROR
+GFOTY,GFOTYBUCKS,SCORE ERROR,GENRES ERROR
+Nick Cave and the Bad Seeds,Ghosteen,SCORE ERROR,GENRES ERROR
+Beirut,Gallipoli,6.6,Rock
+Quelle Chris,Ghost At The Finish Line,SCORE ERROR,GENRES ERROR
+Giles Corey,Giles Corey,SCORE ERROR,GENRES ERROR
+YC The Cynic,GNK,SCORE ERROR,GENRES ERROR
+King Los,"""God, Money, War""",SCORE ERROR,GENRES ERROR
+Mac Miller,GO:OD AM,SCORE ERROR,GENRES ERROR
+Limp Bizkit,Gold Cobra,SCORE ERROR,GENRES ERROR
+Madeon,Good Faith,SCORE ERROR,GENRES ERROR
+Wiley,Godfather II,SCORE ERROR,GENRES ERROR
+Dua Lipa,Future Nostalgia,7.5,Pop/R&B
+Wiley,Godfather,7.4,Rap
+Everything Everything,Get to Heaven,7.2,Rock
+SOB x RBE,Gangin,7.7,Rap
+The Maccabees,Given to the Wild,4.0,"Electronic,Rock"
+Jacaszek,Glimmer,7.7,"Electronic,Jazz,Rock"
+Valee,"""GOOD Job, You Found Me""",7.4,Rap
+Father John Misty,God's Favorite Customer,8.5,Rock
+Macklemore,Gemini,5.4,Rap
+Buke and Gase,General Dome,7.0,Experimental
+Domo Genesis,Genesis,4.9,Rap
+Actress,Ghettoville,6.7,Electronic
+Blu & Exile,Give Me My Flowers While I Can Still Smell Them,6.8,
+Xiu Xiu,Girl with Basket of Fruit,6.0,"Experimental,Rock"
+Jonsi,Go,7.9,Rock
+Dinosaur Jr.,Give A Glimpse of What Yer Not,7.5,Rock
+Aminé,Good For You,7.3,Rap
+Battles,Gloss Drop,7.4,Rock
+Pharrell,G I R L,6.2,Pop/R&B
+Wild Nothing,Gemini,8.2,Rock
+Rustie,Glass Swords,8.0,Electronic
+BROCKHAMPTON,GINGER,6.5,Rap
+"""Tyler, The Creator""",Goblin,8.0,Rap
+Juice WRLD,Goodbye & Good Riddance,6.4,Rap
+Baroness,Gold & Grey,8.0,Metal
+Belle and Sebastian,Girls In Peacetime Want To Dance,6.6,Rock
+Blu,Good To Be Home,6.5,Rap
+Rick Ross,"""God Forgives, I Don't""",6.8,Rap
+Banks,Goddess,5.0,Pop/R&B
+The Postal Service,Give Up,8.0,"Electronic,Rock"
+Kacey Musgraves,Golden Hour,8.7,Folk/Country
+Dan Deacon,Gliss Riffer,7.2,Electronic
+The Mountain Goats,Goths,8.0,Rock
+Coldplay,Ghost Stories,4.4,Rock
+Lone,Galaxy Garden,8.2,Electronic
+Passion Pit,Gossamer,8.4,Pop/R&B
+Bleachers,Gone Now,6.1,Pop/R&B
+Deftones,Gore,7.8,"Metal,Rock"
+Remo Drive,Greatest Hits,SCORE ERROR,GENRES ERROR
+Kendrick Lamar,"""good kid, m.A.A.d. city""",9.5,Rap
+WU LYF,Go Tell Fire To The Mountain,8.4,"Experimental,Rock"
+Ash Koosha,GUUD,SCORE ERROR,GENRES ERROR
+The Garden,Haha,SCORE ERROR,GENRES ERROR
+Steven Wilson,Hand. Cannot. Erase.,SCORE ERROR,GENRES ERROR
+Uncommon Nasa,Halfway,SCORE ERROR,GENRES ERROR
+The Black Heart Rebellion,Har Nevo,SCORE ERROR,GENRES ERROR
+Haru Nemuri,Haru to Shura,SCORE ERROR,GENRES ERROR
+Apathy,Handshakes With Snakes,SCORE ERROR,GENRES ERROR
+HMLTD,Hate Music Last Time Delete,SCORE ERROR,GENRES ERROR
+Swain,Heavy Dancing,SCORE ERROR,GENRES ERROR
+Bad Meets Evil,Hell: The Sequel,SCORE ERROR,GENRES ERROR
+ZelooperZ,HELP,SCORE ERROR,GENRES ERROR
+DJ Khaled,Grateful,5.2,Rap
+Mogwai,"""Hardcore Will Never Die, but You Will""",6.6,Rock
+Kamasi Washington,Heaven and Earth,6.5,Jazz
+Foxygen,Hang,7.0,Rock
+Grinderman,Grinderman 2,6.0,"Electronic,Rock"
+Death Grips,Government Plates,8.4,"Experimental,Rap"
+Guerilla Toss,GT Ultra,7.5,Rock
+Little Simz,Grey Area,8.1,Rap
+Marilyn Manson,Heaven Upside Down,5.9,Metal
+Rustie,Green Language,7.2,Electronic
+King Gizzard & The Lizard Wizard,Gumboot Soup,7.7,Rock
+Quelle Chris,Guns,7.7,Rap
+Classixx,Hanging Gardens,7.8,Electronic
+Liturgy,H.A.Q.Q.,7.6,Metal
+Open Mike Eagle & Paul White,Hella Personal Film Festival,7.3,"Experimental,Rap,Rock"
+Schoolboy Q,Habits & Contradictions,8.4,Rap
+Stormzy,Heavy Is the Head,7.0,Rap
+Pallbearer,Heartless,6.0,Metal
+The World Is A Beautiful Place & I Am No Longer Afraid To Die,Harmlessness,7.9,Rock
+Lil Pump,Harverd Dropout,3.8,Rap
+Maggie Rogers,Heard It in a Past Life,5.9,Pop/R&B
+88rising,Head in the Clouds,6.8,
+Yves Tumor,Heaven to a Tortured Mind,8.5,Experimental
+Xibalba,Hasta La Muerte,7.0,Metal
+Deerhunter,Halcyon Digest,9.2,Rock
+Vince Staples,Hell Can Wait,8.5,Rap
+Holy Other,Held,8.0,"Electronic,Rock"
+Don Toliver,Heaven or Hell,6.1,Rap
+Julia Holter,Have You In My Wilderness,8.4,Experimental
+Tegan and Sara,Heartthrob,7.3,Rock
+Metallica,Hardwired...To Self-Destruct,6.5,Metal
+U.S. Girls,Heavy Light,8.5,Pop/R&B
+The Raconteurs,Help Us Stranger,6.4,Rock
+Fleet Foxes,Helplessness Blues,8.8,Folk/Country
+Mac DeMarco,Here Comes the Cowboy,6.7,Rock
+Angel Olsen,Half Way Home,8.0,Rock
+Cloud Nothings,Here And Nowhere Else,8.7,Rock
+Ty Segall & White Fence,Hair,8.2,Rock
+Clipse,Hell Hath No Fury,9.1,Rap
+Torche,Harmonicraft,6.5,Metal
+Fashawn,Higher Learning Vol. 2,SCORE ERROR,GENRES ERROR
+The Uncluded,Hokey Fright,SCORE ERROR,GENRES ERROR
+The Mary Onettes,Hit The Waves,SCORE ERROR,GENRES ERROR
+Frank Zappa,Hot Rats,SCORE ERROR,GENRES ERROR
+The UV Race,Homo,SCORE ERROR,GENRES ERROR
+Bob Dylan,Highway 61 Revisited,SCORE ERROR,GENRES ERROR
+Billy Woods,History Will Absolve me,SCORE ERROR,GENRES ERROR
+Timber Timbre,Hot Dreams,SCORE ERROR,GENRES ERROR
+Apathy,Honkey Kong,SCORE ERROR,GENRES ERROR
+Glass Animals,How To Be A Human Being,SCORE ERROR,GENRES ERROR
+This Routine Is Hell,Howl,SCORE ERROR,GENRES ERROR
+Nine Inch Nails,Hesitation Marks,7.0,Rock
+Florence + The Machine,High As Hope,5.7,Pop/R&B
+Future,Hndrxx,7.0,Rap
+Billy Woods & Kenny Segal,Hiding Places,7.7,Rap
+Chelsea Wolfe,Hiss Spun,7.2,Rock
+Opeth,Heritage,6.9,Metal
+Harlem,Hippies,8.1,Rock
+Post Malone,Hollywood's Bleeding,6.8,Rap
+Ka,Honor Killed the Samurai,8.0,Rap
+Makaya McCraven,Highly Rare,7.6,Jazz
+Flume,Hi This Is Flume,7.6,Electronic
+Kesha,High Road,5.9,Pop/R&B
+Foals,Holy Fire,7.6,Rock
+The Internet,Hive Mind,8.3,Pop/R&B
+Future,Honest,8.1,Rap
+Spoon,Hot Thoughts,7.4,Rock
+Doja Cat,Hot Pink,7.4,Rap
+Grave Babies,Holographic Violence,6.4,Rock
+Lana Del Rey,Honeymoon,7.5,Pop/R&B
+Nosaj Thing,Home,7.8,Electronic
+Laurie Anderson,Homeland,8.3,Experimental
+The Hotelier,"""Home, Like NoPlace Is There""",8.2,Rock
+The National,High Violet,8.7,Rock
+(Sandy) Alex G,House of Sugar,8.6,Rock
+Future Of The Left,How To Stop Your Brain In An Accident,7.4,Rock
+Modern Baseball,Holy Ghost,7.7,Rock
+Florence + The Machine,"""How Big, How Blue, How Beautiful""",7.6,Pop/R&B
+Kayo Dot,Hubardo,SCORE ERROR,GENRES ERROR
+Beyoncé,Homecoming,9.3,Pop/R&B
+Beastie Boys,Hot Sauce Committee Part Two,7.0,"Rap,Rock"
+Kate Bush,Hounds of Love,10.0,Pop/R&B
+The Roots,How I Got Over,8.1,Rap
+Lou the Human,Humaniac,SCORE ERROR,GENRES ERROR
+The Weeknd,House of Balloons,8.5,Pop/R&B
+ANOHNI,Hopelessness,9.0,Experimental
+Jagwar Ma,Howlin,7.7,Rock
+Pissed Jeans,Honeys,8.1,Rock
+Holy Ghost!,Holy Ghost!,6.8,"Electronic,Rock"
+Luke Abbott,Holkham Drones,7.5,Electronic
+Neurosis,Honor Found In Decay,7.9,Metal
+Patti Smith,Horses,9.4,Rock
+Anthony Fantano,HUMAN BEING,SCORE ERROR,GENRES ERROR
+Comet Gain,Howl of the Lonely Crowd,7.3,"Experimental,Rock"
+Code Orange,I Am King,SCORE ERROR,GENRES ERROR
+Westside Gunn,HWH7,SCORE ERROR,GENRES ERROR
+21 Savage,I Am Greater Than I Was,SCORE ERROR,GENRES ERROR
+Roland Kirk,I Talk With the Spirits,SCORE ERROR,GENRES ERROR
+Behemoth,I Loved You at Your Darkest,SCORE ERROR,GENRES ERROR
+$uicideBoy$,I Want to Die in New Orleans,SCORE ERROR,GENRES ERROR
+The Drones,I See Seaweed,SCORE ERROR,GENRES ERROR
+Benjamin Clementine,I Tell A Fly,SCORE ERROR,GENRES ERROR
+Milo,I Wish My Brother Rob Was Here,SCORE ERROR,GENRES ERROR
+Loma Prieta,I.V.,SCORE ERROR,GENRES ERROR
+Zammuto,Idiom Wind,SCORE ERROR,GENRES ERROR
+Horrendous,Idol,SCORE ERROR,GENRES ERROR
+Drake,"""If You're Reading This, It's Too Late ALBUM /""",SCORE ERROR,GENRES ERROR
+Integrity,"""Howling, For The Nightmare Shall Consume""",7.7,Metal
+Gorillaz,Humanz,6.9,"Electronic,Rock"
+Krallice,Hyperion,8.3,Metal
+Weezer,Hurley,5.0,Rock
+Beck,Hyperspace,6.5,Rock
+Tune-Yards,I Can Feel You Creep Into My Private Life,6.2,Pop/R&B
+Poppy,I Disagree,6.5,
+Descendents,Hypercaffium Spazzinate,7.3,"Metal,Rock"
+Big Sean,I Decided,6.3,Rap
+The National,I Am Easy to Find,7.6,Rock
+Jens Lekman,I Know What Love Isn't,7.7,Rock
+Earl Sweatshirt,"""I Don't Like Shit, I Don't Go Outside""",8.0,Rap
+Travis Scott & Quavo,"""Huncho Jack, Jack Huncho""",6.3,Rap
+Sun Kil Moon,I Also Want to Die in New Orleans,3.2,Folk/Country
+Ash Koosha,I AKA I,7.5,Electronic
+The 1975,"""I Like It When You Sleep, for You Are So Beautiful Yet So Unaware of It""",6.5,Rock
+Bloc Party,Hymns,5.0,Rock
+Broken Social Scene,Hug of Thunder,7.2,Rock
+Loathe,I Let It in and It Took Everything,7.8,Metal
+Cass McCombs,Humor Risk,7.6,Folk/Country
+Father John Misty,"""I Love You, Honeybear""",8.8,Rock
+BADBADNOTGOOD,III,SCORE ERROR,GENRES ERROR
+Title Fight,Hyperview,7.6,Rock
+Parquet Courts,Human Performance,8.4,Rock
+Dinosaur Jr.,I Bet On Sky,7.9,Rock
+Lil B,I'm Gay (I'm Happy),8.1,Rap
+M83,"""Hurry Up, We're Dreaming""",9.1,"Electronic,Rock"
+Young Thug,I'm Up,7.6,Rap
+Red Hot Chili Peppers,I'm With You,4.0,Rock
+Miami Horror,Illumination,SCORE ERROR,GENRES ERROR
+"""Tyler, the Creator """,IGOR,8.0,Rap
+Unknown Mortal Orchestra,II,7.3,Rock
+Let's Eat Grandma,I'm All Ears,8.6,Pop/R&B
+Local Natives,Hummingbird,8.1,Rock
+The xx,I See You,8.4,"Electronic,Pop/R&B"
+Bon Iver,"""i,i""",8.8,Rock
+Paul de Jong,IF,7.2,Experimental
+Black Milk,If There's A Hell Below,7.3,Rap
+Lykke Li,I Never Learn,8.4,Pop/R&B
+Makthaverskan,II,7.6,Rock
+TNGHT,II,7.7,Electronic
+Craft Spells,Idle Labor,7.7,Rock
+Denzel Curry,Imperial,SCORE ERROR,GENRES ERROR
+3:33,In the Middle of Infinity,SCORE ERROR,GENRES ERROR
+Emperor,In the Nightside Eclipse,SCORE ERROR,GENRES ERROR
+Portugal. The Man,In the Mountain In the Cloud,SCORE ERROR,GENRES ERROR
+Tim Hecker and Daniel Lopatin,Instrumental Tourist,SCORE ERROR,GENRES ERROR
+Mellowhype,INSA ALBUM /,SCORE ERROR,GENRES ERROR
+Clams Casino,Instrumentals 2,SCORE ERROR,GENRES ERROR
+Dance Gavin Dance,Instant Gratification,SCORE ERROR,GENRES ERROR
+IDK,Is He Real?,SCORE ERROR,GENRES ERROR
+Roger Waters,Is This the Life We Really Want?,SCORE ERROR,GENRES ERROR
+Lianne La Havas,Is Your Love Big Enough?,SCORE ERROR,GENRES ERROR
+U.S. Girls,In a Poem Unlimited,8.6,Pop/R&B
+Jamie xx,In Colour,9.3,Electronic
+The Underachievers,Indigoism,8.0,Rap
+Pixies,Indie Cindy,6.7,Rock
+Clairo,Immunity,8.0,Pop/R&B
+Ghost,Infestissumam,5.8,
+Hot Chip,In Our Heads,8.0,Electronic
+Bad Brains,Into the Future,5.9,Rock
+The Mountain Goats,In League with Dragons,7.4,Rock
+King Crimson,In the Court of the Crimson King,10.0,Rock
+Crystal Stilts,In Love With Oblivion,7.9,"Experimental,Rock"
+Quelle Chris & Chris Keys,Innocent Country 2,7.3,Rap
+Tame Impala,Innerspeaker,8.5,Rock
+Jon Hopkins,Immunity,8.5,Electronic
+At the Drive-In,in•ter a•li•a,5.8,Rock
+Quelle Chris,Innocent Country,7.3,Rap
+Joji,In Tongues,5.2,Pop/R&B
+King Gizzard & The Lizard Wizard,Infest the Rats' Nest,6.7,Rock
+Raury,Indigo Child,6.5,Rap
+Jenny Hval,Innocence Is Kinky,7.8,Experimental
+BROCKHAMPTON,iridescence,6.6,Rap
+Kid Cudi,Indicud,4.0,"Rap,Rock"
+Neutral Milk Hotel,In the Aeroplane Over the Sea,10.0,Rock
+Owen Pallett,In Conflict,8.0,Pop/R&B
+Joey Purp,iiiDrops,8.3,Rap
+Real Estate,In Mind,7.2,Rock
+Niki and the Dove,Instinct,7.9,Pop/R&B
+Nas,Illmatic,10.0,Rap
+Dam-Funk,Invite the Light,7.6,Pop/R&B
+of Montreal,Innocence Reaches,6.3,Rock
+Nirvana,In Utero,10.0,Rock
+Cardi B,Invasion of Privacy,8.7,Rap
+Portal,Ion,7.8,Metal
+Touché Amoré,Is Survived By,8.0,Rock
+Big K.R.I.T.,It's Better This Way,SCORE ERROR,GENRES ERROR
+Glasser,Interiors,7.8,Electronic
+Future Islands,In Evening Air,7.6,Rock
+Your Old Droog,It Wasn't Even Close,SCORE ERROR,GENRES ERROR
+21 Savage,Issa Album,6.5,Rap
+Kali Uchis,Isolation,8.6,Pop/R&B
+DIIV,Is The Is Are,8.1,Rock
+Amon Tobin,ISAM,5.9,"Electronic,Jazz"
+Thundercat,It Is What It Is,7.4,"Jazz,Pop/R&B"
+Weedeater,Jason...The Dragon,SCORE ERROR,GENRES ERROR
+They Might Be Giants,Join Us,SCORE ERROR,GENRES ERROR
+Moonsorrow,Jumalten Aika,SCORE ERROR,GENRES ERROR
+Kai Whiston,Kai Whiston Bitch,SCORE ERROR,GENRES ERROR
+Kankyō Ongaku,"""Japanese Ambient, Environmental & New Age Music""",SCORE ERROR,GENRES ERROR
+Sunn o))),Kannon,SCORE ERROR,GENRES ERROR
+Pusha T,King Push – Darkest Before Dawn: The Prelude,SCORE ERROR,GENRES ERROR
+Evian Christ,Kings and Them,SCORE ERROR,GENRES ERROR
+Your Old Droog,Kinison,SCORE ERROR,GENRES ERROR
+Mr. Muthafuckin' eXquire,Kismet,SCORE ERROR,GENRES ERROR
+Kanye West,Jesus Is King,7.2,Rap
+Brittany Howard,Jaime,8.6,Rock
+BADBADNOTGOOD,IV,7.1,Jazz
+Eminem,Kamikaze,5.0,Rap
+Andrew Jackson Jihad,Knife Man,SCORE ERROR,GENRES ERROR
+Teyana Taylor,K.T.S.E.,7.8,Pop/R&B
+Battles,Juice B Crypts,6.1,Rock
+Hopsin,Knock Madness,SCORE ERROR,GENRES ERROR
+Otoboke Beaver,Itekoma Hits,7.7,Rock
+iamamiwhoami,Kin,7.6,"Electronic,Rock"
+Salem,King Night,7.5,"Electronic,Metal"
+Lady Gaga,Joanne,6.9,Pop/R&B
+Young Thug,Jeffery,8.5,Rap
+Big K.R.I.T.,K.R.I.T. Iz Here,6.8,Rap
+The Game,Jesus Piece,6.0,Rap
+Sleigh Bells,Jessica Rabbit,5.9,Pop/R&B
+Sleaford Mods,Key Markets,7.5,Rock
+Destroyer,Kaputt,7.9,Rock
+Miguel,Kaleidoscope Dream,8.4,Pop/R&B
+Black Mountain,IV,7.5,Rock
+Pianos Become The Teeth,Keep You,7.3,Rock
+jj,Kills,7.6,"Electronic,Rock"
+IDLES,Joy as an Act of Resistance.,6.8,Rock
+The Flaming Lips,King's Mouth,7.0,Rock
+Nocando,Jimmy The Burnout,7.7,Rap
+Burial,Kindred,8.7,"Electronic,Experimental"
+James Blake,James Blake,5.8,Pop/R&B
+Moonface,Julia With Blue Jeans On,7.7,Rock
+Big K.R.I.T.,King Remembered In Time,6.8,Rap
+Todd Terje,It's Album Time,8.7,Electronic
+M83,JUNK,6.8,"Electronic,Rock"
+Billy Woods,Known Unknowns,SCORE ERROR,GENRES ERROR
+DaBaby,Kirk,7.6,Rap
+Chromatics,Kill For Love,8.7,"Electronic,Rock"
+Deftones,Koi No Yokan,SCORE ERROR,GENRES ERROR
+Daphni,Jiaolong,7.5,Electronic
+Death Cab For Cutie,Kintsugi,5.5,Rock
+Meshuggah,Koloss,SCORE ERROR,GENRES ERROR
+The Weeknd,Kiss Land,6.2,Pop/R&B
+Artificial Brain,Labyrinth Constellation,SCORE ERROR,GENRES ERROR
+Converge,Jane Doe,7.7,Metal
+Peste Noire,La Chaise-Dyable,SCORE ERROR,GENRES ERROR
+King Krule,King Krule,7.0,Electronic
+Destroyer,ken,7.9,Rock
+Wavves,King of the Beach,8.4,Rock
+JJ DOOM,Key to the Kuffs,7.3,Rap
+Rapsody,Laila's Wisdom,SCORE ERROR,GENRES ERROR
+Spooky Black,Leaving,SCORE ERROR,GENRES ERROR
+R.A. The Rugged Man,Legends Never Die,SCORE ERROR,GENRES ERROR
+Sunn O))),Life Metal,SCORE ERROR,GENRES ERROR
+Godspeed You! Black Emperor,Lift Yr. Skinny Fists Like Antennas to Heaven!,SCORE ERROR,GENRES ERROR
+Kodak Black,Lil Big Pac,SCORE ERROR,GENRES ERROR
+Radiohead,Kid A,10.0,Rock
+The Garden,Kiss My Super Bowl Ring,6.4,Rock
+Michael Kiwanuka,Kiwanuka,7.5,Pop/R&B
+Skepta,Konnichiwa,7.8,Rap
+J. Cole,KOD,6.3,Rap
+Deerhoof,La Isla Bonita,7.6,Experimental
+list index out of range,list index out of range,SCORE ERROR,GENRES ERROR
+list index out of range,list index out of range,SCORE ERROR,GENRES ERROR
+Lil Skies,Life of a Dark Rose,6.4,Rap
+list index out of range,list index out of range,SCORE ERROR,GENRES ERROR
+Jack White,Lazaretto,7.1,Rock
+Jonathan Rado,Law & Order,6.2,Rock
+Sigur Rós,Kveikur,8.1,Rock
+Tim Hecker,Konoyo,7.8,Experimental
+Trippie Redd,Life's a Trip,6.2,Rap
+Dope Body,Kunk,7.0,Rock
+Alcest,Les voyages de l'âme,6.9,"Metal,Rock"
+list index out of range,list index out of range,SCORE ERROR,GENRES ERROR
+Jens Lekman,Life Will See You Now,8.0,Rock
+Frances Quinlan,Likewise,7.7,Rock
+list index out of range,list index out of range,SCORE ERROR,GENRES ERROR
+list index out of range,list index out of range,SCORE ERROR,GENRES ERROR
+Shlohmo,Laid Out,8.0,Electronic
+list index out of range,list index out of range,SCORE ERROR,GENRES ERROR
+Hudson Mohawke,Lantern,7.4,Electronic
+list index out of range,list index out of range,SCORE ERROR,GENRES ERROR
+list index out of range,list index out of range,SCORE ERROR,GENRES ERROR
+Dope Body,Lifer,6.9,Rock
+list index out of range,list index out of range,SCORE ERROR,GENRES ERROR
+Lupe Fiasco,Lasers,3.0,Rap
+list index out of range,list index out of range,SCORE ERROR,GENRES ERROR
+list index out of range,list index out of range,SCORE ERROR,GENRES ERROR
+Parquet Courts,Light Up Gold,8.0,Rock
+PJ Harvey,Let England Shake,8.8,Rock
+Nas,Life Is Good,8.3,Rap
+Battles,La Di Da Di,7.5,Rock
+Talk Talk,Laughing Stock,10.0,Rock
+Neil Young,Le Noise,7.6,Rock
+Dirty Projectors,Lamp Lit Prose,7.4,Rock
+Kirk Knight,Late Knight Special,6.4,Rap
+Beyoncé,LEMONADE,8.5,Pop/R&B
+Swans,leaving meaning.,7.7,Rock
+list index out of range,list index out of range,SCORE ERROR,GENRES ERROR
+list index out of range,list index out of range,SCORE ERROR,GENRES ERROR
+list index out of range,list index out of range,SCORE ERROR,GENRES ERROR
+Guided by Voices,Let's Go Eat the Factory,6.9,Rock
+Shabazz Palaces,Lese Majesty,8.2,Rap
+list index out of range,list index out of range,SCORE ERROR,GENRES ERROR
+list index out of range,list index out of range,SCORE ERROR,GENRES ERROR
+Wild Nothing,Life of Pause,6.5,Rock
+list index out of range,list index out of range,SCORE ERROR,GENRES ERROR
+Hinds,Leave Me Alone,7.5,Rock
+list index out of range,list index out of range,SCORE ERROR,GENRES ERROR
+list index out of range,list index out of range,SCORE ERROR,GENRES ERROR
+list index out of range,list index out of range,SCORE ERROR,GENRES ERROR
+list index out of range,list index out of range,SCORE ERROR,GENRES ERROR
+Lil Yachty,Lil Boat 2,5.8,Rap
+list index out of range,list index out of range,SCORE ERROR,GENRES ERROR
+Lil Yachty,Lil Boat,5.8,Rap
+list index out of range,list index out of range,SCORE ERROR,GENRES ERROR
+list index out of range,list index out of range,SCORE ERROR,GENRES ERROR
+list index out of range,list index out of range,SCORE ERROR,GENRES ERROR
+Jai Paul,Leak 04-13 (Bait Ones),8.9,Pop/R&B
+Wiki,Lil Me,7.6,Rap
+Lil Uzi Vert,Lil Uzi Vert Vs. The World,6.9,Rap
+list index out of range,list index out of range,SCORE ERROR,GENRES ERROR
+Watain,Lawless Darkness,6.2,Metal
+Holy Fuck,Latin,7.8,Electronic
+Blood Ceremony,Living With the Ancients,SCORE ERROR,GENRES ERROR
+The Men,Leave Home,8.2,Rock
+The Walkmen,Lisbon,8.6,Rock
+list index out of range,list index out of range,SCORE ERROR,GENRES ERROR
+Portico,Living Fields,SCORE ERROR,GENRES ERROR
+Meridian Brothers,Los Suicidas,SCORE ERROR,GENRES ERROR
+Code Orange Kids,Love Is Love // Return To Dust,SCORE ERROR,GENRES ERROR
+Lou Reed and Metallica,Lulu,SCORE ERROR,GENRES ERROR
+Ana Frango Elétrico,Little Electric Chicken Heart,SCORE ERROR,GENRES ERROR
+Theophilus London,Lover's Holiday,SCORE ERROR,GENRES ERROR
+ASAP Rocky,LiveLoveA$AP,SCORE ERROR,GENRES ERROR
+Injury Reserve,Live From the Dentist Office,SCORE ERROR,GENRES ERROR
+A$AP Rocky,Long.Live.A$AP,SCORE ERROR,GENRES ERROR
+of Montreal,Lousy With Sylvianbriar,SCORE ERROR,GENRES ERROR
+Glitch Mob,Love Death Immortality,SCORE ERROR,GENRES ERROR
+Rosalía,Los Ángeles,SCORE ERROR,GENRES ERROR
+Little Women,Lung,SCORE ERROR,GENRES ERROR
+Mac Miller,Macadelic,SCORE ERROR,GENRES ERROR
+The Bad Plus,Made Possible,SCORE ERROR,GENRES ERROR
+Kano,Made In the Manor,SCORE ERROR,GENRES ERROR
+Tame Impala,Lonerism,9.0,Rock
+Mr. Muthafuckin' eXquire,Lost In Translation,7.9,Rap
+David Byrne & St. Vincent,Love This Giant,5.9,Rock
+Titus Andronicus,Local Business,7.0,Rock
+Dr. John,Locked Down,7.5,Folk/Country
+MGMT,Little Dark Age,7.0,Rock
+John Carpenter,Lost Themes,5.6,Experimental
+The Field,Looping State of Mind,4.5,Electronic
+Godspeed You! Black Emperor,Luciferian Towers,7.3,"Rock,Experimental"
+Big K.R.I.T.,Live From the Underground,7.1,Rap
+American Football,LP3,8.1,Rock
+Step Brothers,Lord Steppington,7.3,Rap
+Lil Uzi Vert,LUV vs. the World 2,6.9,Rap
+Ratatat,LP4,5.2,Electronic
+Tim Hecker,Love Streams,8.2,Experimental
+Onyx Collective,Lower East Suite Part Three,7.6,Jazz
+The War On Drugs,Lost In The Dream,8.8,Rock
+How To Dress Well,Love Remains,8.7,Pop/R&B
+Yelawolf,Love Story,4.9,Rap
+Andy Stott,Luxury Problems,8.7,Electronic
+High On Fire,Luminiferous,8.0,Metal
+Mount Eerie with Julie Doiron,Lost Wisdom pt. 2,7.4,Rock
+Taylor Swift,Lover,7.1,Pop/R&B
+Julia Holter,Loud City Song,8.6,Experimental
+BTS,Love Yourself 轉 'Tear',7.1,Pop/R&B
+The Magnetic Fields,Love at the Bottom of the Sea,6.1,Rock
+Lana Del Rey,Lust For Life,7.7,Pop/R&B
+R. Stevie Moore,Lo Fi Hi Fives,7.4,Rock
+Myrkur,M,7.9,Metal
+Snail Mail,Lush,8.7,Rock
+FKA twigs,M3LL155X,8.6,"Electronic,Pop/R&B"
+Lil Uzi Vert,Luv Is Rage 2,7.7,Rap
+A$AP Mob,Lord$ Never Worry,4.9,Rap
+FKA twigs,Magdalene,9.4,"Electronic,Pop/R&B"
+FKA Twigs,LP1,8.8,"Electronic,Pop/R&B"
+Gold Panda,Lucky Shiner,8.3,Electronic
+My Bloody Valentine,Loveless,10.0,"Experimental,Rock"
+The Strange Boys,Live Music,6.2,"Electronic,Rock"
+Brian Eno,LUX,8.0,Experimental
+Madvillain,Madvillainy,5.9,Rap
+Kid Cudi,Man on the Moon II: The Legend of Mr. Rager,SCORE ERROR,GENRES ERROR
+"""""""Weird Al"""" Yankovic """,Mandatory Fun,SCORE ERROR,GENRES ERROR
+Fall Out Boy,Mania,SCORE ERROR,GENRES ERROR
+Blank Banshee,MEGA,SCORE ERROR,GENRES ERROR
+Myrkur,Mareridt,SCORE ERROR,GENRES ERROR
+BTS,Map of the Soul: 7,SCORE ERROR,GENRES ERROR
+BTS,Map of the Soul: Persona,SCORE ERROR,GENRES ERROR
+Mark Kozelek with Ben Boye and Jim White,Mark Kozelek with Ben Boye and Jim White 2,SCORE ERROR,GENRES ERROR
+Eprom,Metahuman,SCORE ERROR,GENRES ERROR
+MIA,Maya (/\/\ /\ Y /\),SCORE ERROR,GENRES ERROR
+Cage The Elephant,Melophobia,SCORE ERROR,GENRES ERROR
+My Bloody Valentine,MBV,SCORE ERROR,GENRES ERROR
+Babymetal,Metal Resistance,SCORE ERROR,GENRES ERROR
+Run the Jewels,Meow the Jewels REMIX,SCORE ERROR,GENRES ERROR
+Clipping,Midcity,SCORE ERROR,GENRES ERROR
+Metá Metá,MM3,SCORE ERROR,GENRES ERROR
+Marquis Hill,"""Modern Flows, Vol. 2""",SCORE ERROR,GENRES ERROR
+Thou,Magus,7.8,Metal
+King Krule,Man Alive!,7.7,Rock
+Lorde,Melodrama,8.8,Pop/R&B
+Jay-Z,Magna Carta... Holy Grail,5.8,Rap
+Ratatat,Magnifique,5.0,Electronic
+Justin Timberlake,Man of the Woods,3.8,Pop/R&B
+Miley Cyrus,Miley Cyrus and Her Dead Petz,3.0,Pop/R&B
+Tory Lanez,Memories Don't Die,5.5,Rap
+Ghost,Meliora,6.2,
+Agalloch,Marrow of the Spirit,8.5,"Metal,Rock"
+Alex Cameron,Miami Memory,6.0,Rock
+Kvelertak,Meir,7.2,Metal
+Rick Ross,Mastermind,5.8,Rap
+Anderson .Paak,Malibu,8.6,Pop/R&B
+Spellling,Mazy Fly,8.0,Experimental
+Glassjaw,Material Control,6.6,Rock
+Power Trip,Manifest Decimation,8.0,Metal
+Vivian Girls,Memory,7.3,Rock
+Liars,Mess,6.9,Rock
+Pond,"""Man, It Feels Like Space Again""",7.6,Rock
+Interpol,Marauder,5.6,Rock
+Lido Pimienta,Miss Colombia,8.0,Pop/R&B
+Jesca Hoop,Memories Are Now,7.3,"Folk/Country,Pop/R&B"
+Grimes,Miss Anthropocene,8.2,Pop/R&B
+Ty Segall,Manipulator,7.8,Rock
+EarthGang,Mirrorland,7.2,Rap
+Zayn,Mind of Mine,5.9,Pop/R&B
+Ariel Pink's Haunted Graffiti,Mature Themes,8.5,"Experimental,Rock"
+St. Vincent,MASSEDUCTION,6.7,"Rock,Electronic"
+Vampire Weekend,Modern Vampires of the City,9.3,Rock
+Mark Kozelek,Mark Kozelek,6.8,Rock
+DJ Khaled,Major Key,6.9,Rap
+M.I.A.,Matangi,6.5,"Global,Pop/R&B"
+070 Shake,Modus Vivendi,7.3,Rap
+Deerhunter,Monomania,8.3,Rock
+STRFKR,Miracle Mile,5.2,Rock
+Magic Kids,Memphis,6.1,"Experimental,Pop/R&B"
+Tobacco,Maniac Meat,7.6,Electronic
+Bibio,Mind Bokeh,6.9,Electronic
+Feist,Metals,7.7,Rock
+The Smith Street Band,More Scared of You Than You Are of Me,SCORE ERROR,GENRES ERROR
+Dirty Projectors and Bjork,Mount Wittenberg Orca,SCORE ERROR,GENRES ERROR
+Neil Cicierega,Mouth Sounds / Mouth Silence,SCORE ERROR,GENRES ERROR
+Neil Cicierega,Mouth Moods,SCORE ERROR,GENRES ERROR
+Natalia Lafourcade,Musas Vol. 2,SCORE ERROR,GENRES ERROR
+Panda Bear,Mr. Noah,SCORE ERROR,GENRES ERROR
+Peppa Pig,My First Album,SCORE ERROR,GENRES ERROR
+Jarren Benton,My Grandmother's Basement,SCORE ERROR,GENRES ERROR
+Spaceghostpurrp,Mysterious Phonk: The Chronicles of SpvcxxGhxztPvrrp,SCORE ERROR,GENRES ERROR
+Kyary Pamyu Pamyu,Nandacollection,SCORE ERROR,GENRES ERROR
+Soap&Skin,Narrow,SCORE ERROR,GENRES ERROR
+PUP,Morbid Stuff,7.9,Rock
+Drake,More Life,7.8,Rap
+Beck,Morning Phase,6.8,Rock
+Yeah Yeah Yeahs,Mosquito,6.0,Rock
+Co La,Moody Coup,7.5,Electronic
+Gucci Mane,Mr. Davis,7.4,Rap
+King Gizzard and the Lizard Wizard,Murder of the Universe,8.0,Rock
+Ought,More Than Any Other Day,8.4,Rock
+New Order,Music Complete,7.2,Rock
+Primal Scream,More Light,7.7,Rock
+Gonjasufi,MU.ZZ.LE,7.8,Rock
+Black Dice,Mr. Impossible,7.7,"Experimental,Rock"
+Swain,Negative Space,SCORE ERROR,GENRES ERROR
+Corbin,Mourn,6.8,Pop/R&B
+The Weeknd,"""My Dear Melancholy,""",6.5,Pop/R&B
+Pusha T,My Name Is My Name,8.0,Rap
+Swans,My Father Will Guide Me Up a Rope to the Sky,7.7,Rock
+Thee Oh Sees,Mutilator Defeated At Last,7.8,Rock
+Nas,Nasir,6.1,Rap
+"""Tyler, the Creator """,Music Inspired by Illumination & Dr. Seuss' The Grinch,7.2,Rap
+Sheck Wes,Mudboy,8.2,Rap
+YG,My Krazy Life,8.1,Rap
+Kemba,Negus,SCORE ERROR,GENRES ERROR
+Eminem,Music to Be Murdered By,5.5,Rap
+Little Dragon,Nabuma Rubberband,6.8,Electronic
+Chairlift,Moth,7.6,Pop/R&B
+Kanye West,My Beautiful Dark Twisted Fantasy,10.0,Rap
+Dan Deacon,Mystic Familiar,6.4,Electronic
+Unknown Mortal Orchestra,Multi-Love,7.1,Rock
+Holly Herndon,Movement,8.1,Experimental
+Kanye West,My Beautiful Dark Twisted Fantasy,10.0,Rap
+Arca,Mutant,8.4,Experimental
+Action Bronson,Mr. Wonderful,6.3,Rap
+Gas,Narkopop,8.8,Electronic
+Angel Olsen,My Woman,8.8,Rock
+Crystal Stilts,Nature Noir,6.3,"Experimental,Rock"
+Dope Body,Natural History,7.9,Rock
+Phosphorescent,Muchacho,8.8,Rock
+Kvelertak,Nattesferd,8.0,Metal
+Siriusmo,Mosaik,7.8,Electronic
+Rico Nasty,Nasty,7.6,Rap
+Braids,Native Speaker,7.9,Electronic
+Colin Stetson and Sarah Neufeld,Never Were the Way She Was,SCORE ERROR,GENRES ERROR
+Colin Stetson,New History Warfare Vol. 2: Judges,SCORE ERROR,GENRES ERROR
+The Wonder Years,No Closer To Heaven,SCORE ERROR,GENRES ERROR
+Uncommon Nasa,New York Telephone,SCORE ERROR,GENRES ERROR
+Polyphia,New Levels New Devils,SCORE ERROR,GENRES ERROR
+Hozier,Nina Cried Power,SCORE ERROR,GENRES ERROR
+Colin Stetson,New History Warfare Vol. 3: To See More Light,SCORE ERROR,GENRES ERROR
+Migos,No Label II,SCORE ERROR,GENRES ERROR
+Clarence Clarity,No Now,SCORE ERROR,GENRES ERROR
+EDEN,No Future,SCORE ERROR,GENRES ERROR
+Wreck and Reference,No Youth,SCORE ERROR,GENRES ERROR
+David Bowie,No Plan,SCORE ERROR,GENRES ERROR
+The Mars Volta,Noctourniquet,SCORE ERROR,GENRES ERROR
+gupi,None,SCORE ERROR,GENRES ERROR
+Denzel Curry,Nostalgic 64,SCORE ERROR,GENRES ERROR
+Lana Del Rey,Norman [Fricking] Rockwell!,SCORE ERROR,GENRES ERROR
+All Pigs Must Die,Nothing Violates This Nature,SCORE ERROR,GENRES ERROR
+Joyce Manor,Never Hungover Again,7.8,Rock
+Blood Orange,Negro Swan,7.6,Pop/R&B
+Deafheaven,New Bermuda,9.0,Metal
+blink-182,Nine,5.2,Rock
+Desiigner,New English,4.7,Rap
+RiFF RAFF,NEON iCON,5.4,Rap
+Preoccupations,New Material,7.6,Rock
+Snoop Dogg,Neva Left,7.0,Rap
+Heems,Nehru Jackets,6.5,Rap
+Sky Ferreira,"""Night Time, My Time""",8.1,"Pop/R&B,Rock"
+Iceage,New Brigade,8.4,Rock
+Mø,No Mythologies To Follow,7.1,Pop/R&B
+Cyhi The Prynce,No Dope On Sundays,6.8,Rap
+Old Man Gloom,NO,7.2,
+Iglooghost,Neō Wax Bloom,7.2,Electronic
+N.E.R.D,NO_ONE EVER REALLY DIES,6.2,Rap
+Xiu Xiu,Nina,4.7,"Experimental,Rock"
+The Men,New Moon,8.2,Rock
+Death Grips,NO LOVE DEEP WEB,8.2,"Experimental,Rap"
+Hopsin,No Shame,3.5,Rap
+Shlohmo & Jeremih,No More,6.1,"Pop/R&B,Electronic"
+Lapalux,Nostalchic,7.4,Electronic
+Domo Genesis,No Idols,7.4,Rap
+Trash Talk,No Peace,7.7,Metal
+Black Milk,No Poison No Paradise,7.3,Rap
+King Gizzard & The Lizard Wizard,Nonagon Infinity,8.0,Rock
+The Chemical Brothers,No Geography,8.0,Electronic
+Perfume Genius,No Shape,8.8,Pop/R&B
+Power Trip,Nightmare Logic,8.4,Metal
+slowthai,Nothing Great About Britain,8.4,Rap
+tUnE-yArDs,Nikki Nack,8.1,Pop/R&B
+Various Artists,"""NOW That's What I Call Music, Vol. 69""",SCORE ERROR,GENRES ERROR
+Wild Nothing,Nocturne,8.3,Rock
+Nine Inch Nails,Not the Actual Events,6.3,Rock
+Metro Boomin,Not All Heroes Wear Capes,7.7,Rap
+Common,Nobody's Smiling,7.7,Rap
+Daughter,Not To Disappear,6.7,Folk/Country
+Sleater-Kinney,No Cities To Love,8.7,Rock
+TV on the Radio,Nine Types of Light,7.7,Rock
+Small Black,New Chain,7.2,Rock
+Drake,Nothing Was The Same,8.6,Rap
+Lil Ugly Mane,Oblivion Access,SCORE ERROR,GENRES ERROR
+Animal Collective,Oddsac,SCORE ERROR,GENRES ERROR
+Ghost,Opus Eponymous,SCORE ERROR,GENRES ERROR
+Lil Yachty,Nuthin' 2 Prove,6.1,Rap
+The Dillinger Escape Plan,One Of Us Is The Killer,SCORE ERROR,GENRES ERROR
+Vektor,Outer Isolation,SCORE ERROR,GENRES ERROR
+The Body and Full of Hell,One Day You Will Ache Like I Ache,SCORE ERROR,GENRES ERROR
+CunninLynguists,Oneirology,SCORE ERROR,GENRES ERROR
+Recondite,On Acid,SCORE ERROR,GENRES ERROR
+Travis Scott,Owl Pharaoh EP / MIXTAPE /,SCORE ERROR,GENRES ERROR
+Bones,PaidProgramming2,SCORE ERROR,GENRES ERROR
+Kodak Black,Painting Pictures,SCORE ERROR,GENRES ERROR
+Mount Eerie,Ocean Roar,8.1,Rock
+The Flaming Lips,Oczy Mlody,6.2,Rock
+Charli XCX,Number 1 Angel,6.3,Pop/R&B
+A Place To Bury Strangers,Onwards To The Wall,5.8,Rock
+SOPHIE,Oil of Every Pearl's Un-Insides,8.6,Electronic
+Mount Eerie,Now Only,8.5,Rock
+Baths,Obsidian,8.6,Electronic
+Mellowhype,Numbers,6.7,Rap
+OG Maco,OG Maco EP,5.9,Rap
+Deafheaven,Ordinary Corrupt Human Love,8.5,Metal
+Mastodon,Once More 'Round the Sun,6.3,Metal
+The Smashing Pumpkins,Oceania,6.3,Rock
+Hermit and the Recluse,Orpheus vs. the Sirens,8.0,Rap
+Zola Jesus,Okovi,8.3,Electronic
+Caribou,Our Love,8.6,Electronic
+Schoolboy Q,Oxymoron,7.8,Rap
+Oh Sees,Orc,7.4,Rock
+Death From Above,Outrage! Is Now,7.3,Rock
+Vessel,Order of Noise,7.0,Experimental
+Toro y Moi,Outer Peace,7.4,Electronic
+Prince,Originals,9.5,"Pop/R&B,Rock"
+Grizzly Bear,Painted Ruins,7.3,Rock
+Pharoahe Monch,P.T.S.D.,6.6,Rap
+PartyNextDoor,P3,7.4,Pop/R&B
+James Blake,Overgrown,8.0,Pop/R&B
+Danny Brown,Old,8.7,Rap
+Animal Collective,Painting With,6.2,Experimental
+Gang Starr,One of the Best Yet,6.3,Rap
+Guilty Simpson,OJ Simpson,8.0,Rap
+Laura Marling,Once I Was An Eagle,8.1,Folk/Country
+Weezer,Pacific Daydream,4.3,Rock
+Hop Along,Painted Shut,7.9,Rock
+Your Old Droog,Packs,7.7,Rap
+Anderson .Paak,Oxnard,6.9,Pop/R&B
+The Men,Open Your Heart,8.5,Rock
+Tomahawk,Oddfellows,6.8,"Metal,Rock"
+Opeth,Pale Communion,4.3,Metal
+Chelsea Wolfe,Pain Is Beauty,8.0,Rock
+Autechre,Oversteps,7.2,Electronic
+Leonard Cohen,Old Ideas,7.4,Rock
+King Gizzard & the Lizard Wizard,Paper Mâché Dream Balloon,SCORE ERROR,GENRES ERROR
+Mono/Poly,Paramatma,SCORE ERROR,GENRES ERROR
+Soupcans,Parasite Brain,SCORE ERROR,GENRES ERROR
+Touche Amore,Parting the Sea Between Brightness and Me,SCORE ERROR,GENRES ERROR
+Tera Melos,Patagonian Rats,SCORE ERROR,GENRES ERROR
+Megaton Leviathan,Past 21: Beyond The Arctic Cell,SCORE ERROR,GENRES ERROR
+Kreator,Phantom Antichrist,SCORE ERROR,GENRES ERROR
+Nina Simone,Pastel Blues,SCORE ERROR,GENRES ERROR
+Kyary Pamyu Pamyu,Pikapika Fantajin,SCORE ERROR,GENRES ERROR
+John Frusciante,PBX Funicular Intaglio Zone,SCORE ERROR,GENRES ERROR
+Nmesh,Pharma,SCORE ERROR,GENRES ERROR
+"""Sufjan Stevens, et al. """,Planetarium,SCORE ERROR,GENRES ERROR
+Tangerine Dream,Phaedra,SCORE ERROR,GENRES ERROR
+Riff Raff,Peach Panther,SCORE ERROR,GENRES ERROR
+Dead Kennedys,Plastic Surgery Disasters,SCORE ERROR,GENRES ERROR
+Ruin,Plague Transmissions Vol. 1,SCORE ERROR,GENRES ERROR
+The Progressive Era,PEEP: The aPROcalypse,SCORE ERROR,GENRES ERROR
+Busdriver,Perfect Hair,SCORE ERROR,GENRES ERROR
+Pink Guy,Pink Season,SCORE ERROR,GENRES ERROR
+Lil B,Platinum Flame,SCORE ERROR,GENRES ERROR
+Gorguts,Pleiades' Dust,SCORE ERROR,GENRES ERROR
+Yazz Ahmed,Polyhymnia,SCORE ERROR,GENRES ERROR
+Poppy,Poppy.Computer,SCORE ERROR,GENRES ERROR
+Ghost,Popestar,SCORE ERROR,GENRES ERROR
+Remo Drive,Pop Music,SCORE ERROR,GENRES ERROR
+Xasthur,Portal of Sorrow,SCORE ERROR,GENRES ERROR
+Cara Neir,"""Portals To A Better, Dead World""",SCORE ERROR,GENRES ERROR
+Portico Quartet,Portico Quartet,SCORE ERROR,GENRES ERROR
+Atlas Sound,Parallax,8.7,Rock
+Black Dresses,Peaceful as Hell,7.6,Electronic
+Hopsin,Pound Syndrome,SCORE ERROR,GENRES ERROR
+Caroline Polachek,Pang,7.3,Pop/R&B
+Richard Dawson,Peasant,8.0,
+Pop. 1280,Paradise,7.4,Rock
+Flying Lotus,Pattern+Grid World,8.0,Electronic
+Here We Go Magic,Pigeons,7.5,Rock
+Washed Out,Paracosm,7.4,Electronic
+Kid Cudi,"""Passion, Pain & Demon Slayin'""",6.7,"Rap,Rock"
+Armand Hammer,Paraffin,8.1,Rap
+Matmos,Plastic Anniversary,7.6,Experimental
+Rex Orange County,Pony,5.0,Pop/R&B
+Panda Bear,Panda Bear Meets the Grim Reaper,8.7,Electronic
+Roddy Ricch,Please Excuse Me for Being Antisocial,6.9,Rap
+Efterklang,Piramida,5.7,Rock
+IDYLLS,PRAYER FOR TERRENE,SCORE ERROR,GENRES ERROR
+Holly Herndon,Platform,8.7,Experimental
+Xiu Xiu,Plays the Music of Twin Peaks,7.7,"Experimental,Rock"
+Blonde Redhead,Penny Sparkle,4.0,Rock
+Porches,Pool,6.4,Rock
+Fever Ray,Plunge,7.8,Electronic
+Iceage,Plowing Into the Field of Love,8.5,Rock
+La Dispute,Panorama,7.6,Rock
+mewithoutYOU,Pale Horses,7.2,Rock
+of Montreal,Paralytic Stalks,4.6,Rock
+Tomb Mold,Planetary Clairvoyance,8.0,Metal
+King Gizzard & The Lizard Wizard,Polygondwanaland,7.2,Rock
+Freddie Gibbs & Madlib,Piñata,8.0,Rap
+Destroyer,Poison Season,7.6,Rock
+Feist,Pleasure,7.7,Rock
+Ariel Pink,Pom Pom,8.8,Rock
+Charli XCX,Pop 2,6.8,Pop/R&B
+The Shins,Port of Morrow,8.4,Rock
+Rival Sons,Pressure & Time,SCORE ERROR,GENRES ERROR
+Desaparecidos,Payola,7.6,Rock
+Four Tet,Pink,8.2,Electronic
+Jeff Rosenstock,Post-,8.2,Rock
+Iggy Pop,Post-Pop Depression,6.9,Rock
+Gorillaz,Plastic Beach,8.5,"Electronic,Rock"
+The Fresh & Onlys,Play It Strange,8.0,Rock
+Lil Dicky,Professional Rapper,SCORE ERROR,GENRES ERROR
+The Drums,Portamento,7.4,Pop/R&B
+Christian Mistress,Possession,7.6,Metal
+Ghost,Prequelle,6.1,
+Nick Cave and The Bad Seeds,Push The Sky Away,SCORE ERROR,GENRES ERROR
+Sunn O))),Pyroclasts,SCORE ERROR,GENRES ERROR
+Shabazz Palaces,Quazarz DOUBLE,SCORE ERROR,GENRES ERROR
+Dumbo Gets Mad,Quantum Leap,SCORE ERROR,GENRES ERROR
+Tom Waits,Rain Dogs,SCORE ERROR,GENRES ERROR
+Reks,R.E.K.S.,SCORE ERROR,GENRES ERROR
+2 8 1 4,Rain Temple,SCORE ERROR,GENRES ERROR
+Armand Hammer,Race Music,SCORE ERROR,GENRES ERROR
+$uicideBoy$,Radical $uicide,SCORE ERROR,GENRES ERROR
+Daftside,Random Access Memories Memories REMIX,SCORE ERROR,GENRES ERROR
+Action Bronson and the Alchemist,Rare Chandeliers,SCORE ERROR,GENRES ERROR
+PRhyme,PRhyme 2,6.1,Rap
+Dave,Psychodrama,8.0,Rap
+Vince Staples,Prima Donna,8.0,Rap
+Perfume Genius,Put Your Back N 2 It,8.4,Pop/R&B
+Kimbra,Primal Heart,5.9,Pop/R&B
+Oneohtrix Point Never,R Plus Seven,8.4,Experimental
+R.A.P. Ferreira,Purple Moonlight Pages,7.7,Rap
+Wild Beasts,Present Tense,8.2,Rock
+Sampha,Process,8.6,Electronic
+Earth,Primitive and Deadly,7.0,Metal
+Women,Public Strain,8.0,"Experimental,Rock"
+2 Chainz,Rap or Go to the League,7.6,Rap
+Kodak Black,Project Baby 2,6.0,Rap
+The Internet,Purple Naked Ladies,6.0,Pop/R&B
+Nicki Minaj,Queen,7.6,Rap
+Baroness,Purple,8.5,Metal
+Westside Gunn,Pray for Paris,8.0,Rap
+Kesha,Rainbow,6.8,Pop/R&B
+2 Chainz,Pretty Girls Like Trap Music,8.0,Rap
+Jonwayne,Rap Album Two,7.6,Rap
+Sophie,Product,6.6,Electronic
+Actress,R.I.P.,8.5,Electronic
+Prurient,Rainbow Mirror,6.2,Experimental
+Quavo,Quavo Huncho,5.9,Rap
+Lorde,Pure Heroine,7.3,Pop/R&B
+Darkside,Psychic,9.0,Rock
+Father John Misty,Pure Comedy,7.6,Rock
+Dizzee Rascal,Raskit,7.0,Rap
+Prince and the Revolution,Purple Rain,10.0,"Pop/R&B,Rock"
+Holly Herndon,PROTO,8.2,Experimental
+Crystal Stilts,Radiant Door,7.4,"Experimental,Rock"
+Justin Bieber,Purpose,6.2,Pop/R&B
+Jessica Pratt,Quiet Signs,8.4,Folk/Country
+Rick Ross,Rather You Than Me,6.9,Rap
+Shamir,Ratchet,8.3,Pop/R&B
+Daft Punk,Random Access Memories,8.8,Electronic
+Mogwai,Rave Tapes,6.0,Rock
+Maserati,Pyramid of the Sun,7.4,Rock
+Killer Mike,R.A.P. Music,8.6,Rap
+Yelawolf,Radioactive,6.5,Rap
+Bladee,Red Light,SCORE ERROR,GENRES ERROR
+Elder,Reflections of a Floating World,SCORE ERROR,GENRES ERROR
+The Souljazz Orchestra,Rising Sun,SCORE ERROR,GENRES ERROR
+Fugazi,Repeater,SCORE ERROR,GENRES ERROR
+Kirin J. Callinan,Return to Center,SCORE ERROR,GENRES ERROR
+Dreamville,Revenge of the Dreamers III,SCORE ERROR,GENRES ERROR
+The Underachievers,Renaissance,SCORE ERROR,GENRES ERROR
+Murder Construct,Results,SCORE ERROR,GENRES ERROR
+Big K.R.I.T.,Returnof4eva,SCORE ERROR,GENRES ERROR
+Panopticon,Roads To The North,SCORE ERROR,GENRES ERROR
+Wildbirds & Peacedrums,Rhythm,SCORE ERROR,GENRES ERROR
+review' is not in list,review' is not in list,SCORE ERROR,GENRES ERROR
+Ceremony,Rohnert Park,SCORE ERROR,GENRES ERROR
+Civil Civic,Rules,SCORE ERROR,GENRES ERROR
+Tim Hecker,"""Ravedeath, 1972""",8.6,Experimental
+Wire,Red Barked Tree,8.0,Rock
+Mark Ronson & The Business Intl.,Record Collection,5.4,
+Jay Rock,Redemption,8.0,Rap
+Iggy And The Stooges,Ready To Die,5.6,"Electronic,Rock"
+Lone,Reality Testing,8.0,Electronic
+Green Day,Revolution Radio,5.1,Rock
+alt-J,Relaxer,4.5,Rock
+Hannah Diamond,Reflections,6.2,Pop/R&B
+Locrian,Return to Annihilation,8.0,Metal
+Oneohtrix Point Never,Replica,8.8,Experimental
+Lamb of God,Resolution,3.9,Metal
+Iggy and the Stooges,Raw Power,8.3,"Electronic,Rock"
+Massive Attack,Ritual Spirit,7.0,Electronic
+Sharon Van Etten,Remind Me Tomorrow,8.4,Rock
+Protomartyr,Relatives In Descent,6.9,Rock
+Eminem,Revival,5.0,Rap
+Regina Spektor,Remember Us To Life,6.6,Rock
+Oathbreaker,Rheia,7.8,Metal
+Glasser,Ring,8.0,Electronic
+Skrillex,Recess,5.7,Electronic
+Burial,Rival Dealer,9.0,"Electronic,Experimental"
+Travis Scott,Rodeo,6.0,Rap
+Taylor Swift,Reputation,6.5,Pop/R&B
+Noname,Room 25,8.6,Rap
+Das Racist,Relax,6.3,Rap
+Rina Sawayama,RINA,7.7,Pop/R&B
+Armand Hammer,Rome,8.1,Rap
+Ought,Room Inside The World,7.1,Rock
+Arcade Fire,Reflektor,9.2,Rock
+Talking Heads,Remain In Light,10.0,Rock
+(Sandy) Alex G,Rocket,8.4,Rock
+Thantifaxath,Sacred White Noise,SCORE ERROR,GENRES ERROR
+Conor Oberst,Ruminations,7.5,Rock
+First Aid Kit,Ruins,6.4,Folk/Country
+Screaming Females,Rose Mountain,6.7,Rock
+Sleigh Bells,Reign of Terror,8.2,Pop/R&B
+White Lies,Ritual,2.5,"Electronic,Rock"
+Machinedrum,Room(s),6.6,Electronic
+Little Dragon,Ritual Union,6.7,Electronic
+Run the Jewels,Run the Jewels 2,9.0,Rap
+Bongripper,Satan Worshipping Doom,SCORE ERROR,GENRES ERROR
+Black Lips,Satan's Graffiti or God's Art?,SCORE ERROR,GENRES ERROR
+Dope Body,Saturday,SCORE ERROR,GENRES ERROR
+Stone Titan,Scratch N' Sniff (MINI),SCORE ERROR,GENRES ERROR
+Skrillex,Scary Monsters and Nice Sprites,SCORE ERROR,GENRES ERROR
+21 Savage and Metro Boomin,Savage Mode,SCORE ERROR,GENRES ERROR
+Loma Prieta,Self Portrait,SCORE ERROR,GENRES ERROR
+The I.L.Y's,Scum With Boundaries,SCORE ERROR,GENRES ERROR
+Igorrr,Savage Sinusoid,SCORE ERROR,GENRES ERROR
+TVOTR,Seeds,SCORE ERROR,GENRES ERROR
+Pink Guy,Self-Titled,SCORE ERROR,GENRES ERROR
+Arabrot,Self-Titled,SCORE ERROR,GENRES ERROR
+I Am Your Destruction,Self-Titled,SCORE ERROR,GENRES ERROR
+Poor Lily,Self-TItled,SCORE ERROR,GENRES ERROR
+Sadsic,Self-Titled,SCORE ERROR,GENRES ERROR
+All Pigs Must DIe,Self-Titled,SCORE ERROR,GENRES ERROR
+Sterilizer,Self-Titled,SCORE ERROR,GENRES ERROR
+Dweller On the Threshold,Self-Titled,SCORE ERROR,GENRES ERROR
+Comadre,Self-Titled,SCORE ERROR,GENRES ERROR
+Yves Tumor,Safe in the Hands of Love,9.1,Experimental
+Run the Jewels,Run the Jewels 3,8.6,Rap
+Mac Demarco,Salad Days,8.5,Rock
+Action Bronson,Saaab Stories,6.1,Rap
+Brockhampton,Saturation,7.5,Rap
+Aphex Twin,Selected Ambient Works 85-92,9.4,Electronic
+Hudson Mohawke,Satin Panthers,7.6,Electronic
+Brockhampton,Saturation III,7.5,Rap
+The Dead Weather,Sea of Cowards,7.8,Rock
+Wilco,Schmilco,7.0,Rock
+Guardian Alien,See the World Given to a One Love Entity,7.2,
+Brockhampton,Saturation II,7.5,Rap
+Sisyphus,Self-Titled,6.2,
+Rina Sawayama,Sawayama,7.7,Pop/R&B
+Mazzy Star,Seasons Of Your Day,7.8,Rock
+Waxahatchee,Saint Cloud,8.7,Rock
+Have a Nice Life,Sea of Worry,7.4,
+black midi,Schlagenheim,8.2,Rock
+Mount Eerie,Sauna,8.1,Rock
+Drake,Scorpion,6.9,Rap
+Holograms,Self-Titled,7.1,
+Brand New,Science Fiction,8.3,Rock
+Anika,Self-Titled,7.4,"Pop/R&B,Rock"
+The Drums,Self-Titled,6.9,Experimental
+Purple Mountains,Self-Titled,8.5,Rock
+Leviathan,Scar Sighted,7.4,Metal
+SBTRKT,SBTRKT,5.5,"Electronic,Rock"
+Clark,Self-TItled,SCORE ERROR,GENRES ERROR
+Murmur,Self-Titled,7.5,Electronic
+A Sunny Day In Glasgow,Sea When Absent,8.5,Rock
+California X,Self-Titled,6.9,Rock
+Caustic Window,Self-Titled,8.1,
+Samiyam,Sam Baker's Album,6.3,Rap
+Corpo-Mente,Self-Titled,SCORE ERROR,GENRES ERROR
+METZ,Self-Titled,7.6,Rock
+OFF!,Self-Titled,7.0,Electronic
+Kendrick Lamar,Section.80,8.0,Rap
+Alvvays,Self-Titled,7.3,Rock
+Roomful of Teeth,Self-Titled,7.0,
+Red Horse,Self-Titled,7.4,Folk/Country
+Interpol,Self-Titled,5.6,Rock
+Happy Birthday,Self-Titled,7.8,"Experimental,Pop/R&B"
+Yuck,Self-TItled,SCORE ERROR,GENRES ERROR
+Brain Tentacles,Self-Titled,SCORE ERROR,GENRES ERROR
+Unknown Mortal Orchestra,Self-Titled,6.5,Rock
+Ibibio Sound Machine,Self-TItled,SCORE ERROR,GENRES ERROR
+Ondatrópica,Self-Titled,SCORE ERROR,GENRES ERROR
+Antemasque,Self-Titled,SCORE ERROR,GENRES ERROR
+Beyoncé,Self-Titled,SCORE ERROR,GENRES ERROR
+Jessica Pratt,Self-Titled,8.4,Folk/Country
+Kvelertak,Self-Titled,8.0,Metal
+Eyehategod,Self-Titled,8.0,
+Daughters,Self-Titled,8.0,Rock
+case / lang / veirs,Self-Titled,8.2,Rock
+Melt Yourself Down,Self-Titled,6.4,
+Wu-Block,Self-Titled,6.5,
+Crystal Castles,Self-Titled,6.8,Electronic
+Fuzz,Self-Titled,7.0,Rock
+The Highwomen,Self-Titled,7.7,Folk/Country
+Quakers,Self-Titled,7.1,Rap
+Factory Floor,Self-Titled,6.0,Electronic
+Nevermen,Self-Titled,5.8,Rock
+Jesu / Sun Kil Moon,Self-Titled,7.5,"Metal,Rock,Folk/Country"
+Czarface,Self-Titled,6.4,Rap
+NehruvianDOOM,Self-Titled,5.6,Rap
+Bicep,Self-Titled,7.4,Electronic
+Edward Sharpe & The Magnetic Zeros,Self-Titled,4.5,Rock
+Malibu Ken,Self-Titled,7.7,Rap
+Algiers,Self-Titled,6.0,Rock
+Majid Jordan,Self-Titled,7.4,Pop/R&B
+Superorganism,Self-Titled,7.8,Pop/R&B
+Alice Glass,Self-Titled,6.9,Rap
+Dead Cross,Self-Titled,6.2,Rock
+Viet Cong,Self-Titled,8.5,Rock
+Veronica Falls,Self-Titled,7.5,"Experimental,Rock"
+Run The Jewels,Self-Titled,8.6,Rap
+MGMT,Self-Titled,7.0,Rock
+LUMP,Self-Titled,7.7,Experimental
+The Neighbourhood,Self-Titled,4.7,Rock
+Royal Blood,Self-Titled,5.6,Rock
+Ty Segall,Self-Titled,5.8,Rock
+Preoccupations,Self-Titled,7.7,"Experimental,Rock"
+St. Vincent,Self-Titled,6.7,"Rock,Electronic"
+TNGHT,Self-Titled,7.7,Electronic
+Dirty Projectors,Self-Titled,7.1,Rock
+Arca,Self-Titled,8.1,Experimental
+Balkans,Self-Titled,7.6,Electronic
+Wild Flag,Self-Titled,8.0,"Experimental,Rock"
+Weezer,Self-Titled (Black),SCORE ERROR,GENRES ERROR
+Weezer,Self-Titled (White),SCORE ERROR,GENRES ERROR
+Weezer,Self-Titled (Teal),SCORE ERROR,GENRES ERROR
+Bring Me The Horizon,Sempiternal,SCORE ERROR,GENRES ERROR
+Natural Child,Self-Titled 7'',SCORE ERROR,GENRES ERROR
+Kids & Explosions,Shit Computer,SCORE ERROR,GENRES ERROR
+American Football,Self-Titled (LP2),SCORE ERROR,GENRES ERROR
+Squarepusher,Shobaleader One: d'Demonstrator,SCORE ERROR,GENRES ERROR
+Cake,Showroom of Compassion,SCORE ERROR,GENRES ERROR
+Uffie,Sex Dreams and Denim Jeans,SCORE ERROR,GENRES ERROR
+Spark Master Tape,Silhouette of a Sunkken City,SCORE ERROR,GENRES ERROR
+Various Artists,Shady XV,SCORE ERROR,GENRES ERROR
+Das Racist,"""Shut Up, Dude / Sit Down, Man""",SCORE ERROR,GENRES ERROR
+White Suns,Sinews,SCORE ERROR,GENRES ERROR
+Big Boi,Sir Lucious Left Foot: The Son of Chico Dusty,SCORE ERROR,GENRES ERROR
+Timber Timbre,"""Sincerely, Future Pollution""",SCORE ERROR,GENRES ERROR
+Daphni,Sizzling,SCORE ERROR,GENRES ERROR
+Injury Reserve,Self-Titled,6.8,Rap
+Jackboys & Travis Scott,Self-Titled,5.9,Rap
+KIDS SEE GHOSTS,Self-Titled,7.6,"Rap,Rock"
+Fetty Wap,Self-Titled,5.4,Rap
+Bill Callahan,Shepherd in a Sheepskin Vest,8.5,Rock
+Future Islands,Singles,8.0,Rock
+Röyksopp,Senior,6.0,"Electronic,Pop/R&B"
+Miley Cyrus,She Is Coming,4.6,Pop/R&B
+The Velvet Underground & Nico,Self-Titled,9.0,Rock
+Laura Marling,Short Movie,7.4,Folk/Country
+Laura Marling,Semper Femina,7.7,Folk/Country
+Savages,Silence Yourself,8.7,Rock
+Black Breath,Sentenced to Life,7.6,
+Unknown Mortal Orchestra,Sex & Food,7.0,Rock
+Nachtmystium,Silencing Machine,8.0,"Metal,Rock"
+Lil Pump,Self-Titled,3.8,Rap
+Disclosure,Settle,5.9,Electronic
+Manchester Orchestra,Simple Math,5.5,Rock
+Bibio,Silver Wilkinson,6.2,Electronic
+Purity Ring,Shrines,8.4,Electronic
+Grizzly Bear,Shields,7.4,Rock
+Wale,Shine,6.0,Rap
+Playboi Carti,Self-Titled,8.5,Rap
+Harry Styles,Self-Titled,6.0,Pop/R&B
+Jon Hopkins,Singularity,8.3,Electronic
+Slowdive,Self-Titled,8.6,Rock
+Future,Self-Titled,8.0,Jazz
+Jim O'Rourke,Simple Songs,8.6,Experimental
+Nicolas Jaar,Sirens,8.7,Electronic
+Freddie Gibbs,Shadow of a Doubt,7.8,Rap
+Four Tet,Sixteen Oceans,6.9,Electronic
+Muse,Simulation Theory,6.0,Rock
+Liars,Sisterworld,4.0,Rock
+The Knife,Shaking The Habitual,8.4,"Electronic,Experimental"
+Sufjan Stevens,Silver & Gold,7.8,Folk/Country
+Aesop Rock,Skelethon,8.2,Rap
+Raekwon,Shaolin vs. Wu-Tang,7.9,Rap
+Matt & Kim,Sidewalks,6.3,Rock
+Kuedo,Severant,7.7,Electronic
+Daniel Rossen,Silent Hour / Golden Mile,8.0,Rock
+Bölzer,Soma,SCORE ERROR,GENRES ERROR
+Ghostpoet,Some Say I So I Say Light,SCORE ERROR,GENRES ERROR
+Tech N9ne,Something Else,SCORE ERROR,GENRES ERROR
+Snake Oil,Snake Oil,SCORE ERROR,GENRES ERROR
+Black Breath,Slaves Beyond Death,SCORE ERROR,GENRES ERROR
+Cage the Elephant,Social Cues,SCORE ERROR,GENRES ERROR
+SeeYouSpaceCowboy,Songs for the Firing Squad,SCORE ERROR,GENRES ERROR
+Whitey Morgan and the 78's,Sonic Ranch,SCORE ERROR,GENRES ERROR
+Courtney Barnett,"""Sometimes I Sit and Think, and Sometimes I Just Sit""",8.6,Rock
+Devo,Something For Everybody,6.6,Rock
+Beach Fossils,Somersault,7.3,"Experimental,Rock"
+Haim,Something to Tell You,7.8,Rock
+The Tallest Man On Earth,Sometimes the Blues Is Just a Passing Bird,7.8,Folk/Country
+Drake,So Far Gone,7.4,Rap
+serpentwithfeet,soil,8.1,Experimental
+Nick Cave & the Bad Seeds,Skeleton Tree,9.0,Rock
+Earl Sweatshirt,Some Rap Songs,8.8,Rap
+Oh Sees,Smote Reverser,7.6,Rock
+Brian Eno,Small Craft On A Milk Sea,7.4,Experimental
+King Gizzard & The Lizard Wizard w/ Mild High Club,Sketches of Brunswick East,7.5,Rock
+Young Nudy & Pi'erre Bourne,Sli'merre,8.0,Rap
+Young Thug,Slime Language,7.3,Rap
+No Age,Snares Like A Haircut,8.0,Rock
+Flume,Skin Companion II,5.8,Electronic
+Young Thug,So Much Fun,8.4,Rap
+Ratking,So It Goes,7.5,Rap
+Deakin,Sleep Cycle,7.6,"Experimental,Rock"
+Young Thug,Slime Season 3,7.9,Rap
+XXXTentacion,Skins,3.0,Rap
+The War On Drugs,Slave Ambient,8.3,Rock
+milo,So the Flies Don't Come,7.4,Rap
+Laura Marling,Song for Our Daughter,7.6,Folk/Country
+Daniel Avery,Song For Alpha,6.7,Electronic
+George Clanton,Slide,7.3,Pop/R&B
+Wild Beasts,Smother,8.2,Rock
+Faith No More,Sol Invictus,6.0,Rock
+James Ferraro,Skid Row,6.6,Electronic
+Flume,Skin,5.8,Electronic
+Smith Westerns,Soft Will,7.9,Rock
+High On Fire,Snakes for the Divine,8.0,Metal
+Foo Fighters,Sonic Highways,5.6,Rock
+Fuck Buttons,Slow Focus,8.7,Electronic
+The National,Sleep Well Beast,8.0,Rock
+Chairlift,Something,8.0,Pop/R&B
+Scott Walker + Sunn o))),Soused,SCORE ERROR,GENRES ERROR
+Lightning Bolt,Sonic Citadel,7.8,Rock
+Ty Segall Band,Slaughterhouse,8.7,Rock
+Various Artists,Southern Family,SCORE ERROR,GENRES ERROR
+The Horrors,Skying,7.5,Rock
+Pallbearer,Sorrow and Extinction,8.4,Metal
+Lemon Demon,Spirit Phone,SCORE ERROR,GENRES ERROR
+Nujabes,Spiritual State,SCORE ERROR,GENRES ERROR
+Various Artists,Star Wars Head Space,SCORE ERROR,GENRES ERROR
+Igorrr,Spirituality and Distortion,SCORE ERROR,GENRES ERROR
+Vallenfyre,Splinters,SCORE ERROR,GENRES ERROR
+Childish Gambino,STN MTN / Kauai MIXTAPE &,SCORE ERROR,GENRES ERROR
+Death Grips,Steroids (Crouching Tiger Hidden Gabber Megamix),SCORE ERROR,GENRES ERROR
+CunninLynguists,Strange Journey Vol. 3,SCORE ERROR,GENRES ERROR
+B.o.B.,Strange Clouds,SCORE ERROR,GENRES ERROR
+Herman Dune,Strange Moosic,SCORE ERROR,GENRES ERROR
+Black Thought & Salaam Remi,"""Streams of Thought, Vol. 2""",SCORE ERROR,GENRES ERROR
+Black Thought & 9th Wonder,"""Streams of Thought, Vol. 1""",SCORE ERROR,GENRES ERROR
+Soap&Skin,"""Sugarbread 7""""""",SCORE ERROR,GENRES ERROR
+Pissgrave,Suicide Euphoria,SCORE ERROR,GENRES ERROR
+Lil Yachty,Summer Songs 2 MIXTAPE OR,SCORE ERROR,GENRES ERROR
+Thou,Summit,SCORE ERROR,GENRES ERROR
+Sam Hunt,Southside,7.5,Folk/Country
+Alabama Shakes,Sound & Color,8.1,Rock
+Sturgill Simpson,Sound & Fury,7.2,Folk/Country
+Sharon Jones & The Dap-Kings,Soul of a Woman,8.0,Pop/R&B
+KEN mode,Success,5.9,Metal
+Mogwai,Special Moves,8.2,Rock
+Yung Lean,Stranger,4.9,Rap
+Nils Frahm,Spaces,7.8,Electronic
+Ski Mask the Slump God,Stokeley,7.2,Rap
+Nicolas Jaar,Space Is Only Noise,8.4,Electronic
+Kid Cudi,Speedin' Bullet 2 Heaven,4.0,"Rap,Rock"
+YG,Still Brazy,8.0,Rap
+BADBADNOTGOOD & Ghostface Killah,Sour Soul,6.2,"Rap,Jazz"
+Touché Amoré,Stage Four,8.1,Rock
+YG,Stay Dangerous,6.5,Rap
+clipping.,Splendor & Misery,5.3,Rap
+A$AP Ferg,Still Striving,6.1,Rap
+Modest Mouse,Strangers To Ourselves,6.4,Rock
+Lotus Plaza,Spooky Action at a Distance,8.4,"Experimental,Rock"
+Joey Bada$$,Summer Knights,6.8,Rap
+N.W.A.,Straight Outta Compton,9.7,Rap
+Zeal & Ardor,Stranger Fruit,7.3,Metal
+Rae Sremmurd,SR3MM,8.1,Rap
+Torres,Sprinter,8.0,Rock
+Marissa Nadler,Strangers,7.6,Folk/Country
+Megan Thee Stallion,Suga,7.0,Rap
+Little Simz,Stillness In Wonderland,7.1,Rap
+Christian Scott aTunde Adjuah,Stretch Music,7.5,Jazz
+The Weeknd,Starboy,6.7,Pop/R&B
+Adventures,Supersonic Home,SCORE ERROR,GENRES ERROR
+Wilco,Star Wars,7.7,Rock
+Cults,Static,6.8,Rock
+Tiny Moving Parts,Swell,SCORE ERROR,GENRES ERROR
+Slint,Spiderland,10.0,Rock
+Caribou,Suddenly,8.2,Electronic
+Negură Bunget,TĂU,SCORE ERROR,GENRES ERROR
+Rae Sremmurd,Sremmlife 2,7.6,Rap
+Waste of Space Orchestra,Syntheosis,SCORE ERROR,GENRES ERROR
+Young Fathers,Tape One,SCORE ERROR,GENRES ERROR
+Big K.R.I.T.,TDT,SCORE ERROR,GENRES ERROR
+Young Fathers,Tape Two ALBUM / EP /,SCORE ERROR,GENRES ERROR
+Woods,Sun and Shade,7.9,Rock
+Cage the Elephant,Tell Me I'm Pretty,SCORE ERROR,GENRES ERROR
+Weekend,Sports,8.2,"Experimental,Rock"
+mewithoutYou,Ten Stories,SCORE ERROR,GENRES ERROR
+Sunn O))) & Ulver,Terrestrials,SCORE ERROR,GENRES ERROR
+Vince Staples,Summertime 06,8.8,Rap
+Diamond Rings,Special Affections,8.2,"Electronic,Rock"
+St. Vincent,Strange Mercy,9.0,Rock
+Arctic Monkeys,Suck It and See,7.5,Rock
+Cage the Elephant,"""Thank You, Happy Birthday""",SCORE ERROR,GENRES ERROR
+Ought,Sun Coming Down,8.0,Rock
+Mac Miller,Swimming,7.4,Rap
+Tobacco,Sweatbox Dynasty,6.7,Electronic
+Spiritualized,Sweet Heart Sweet Light,8.8,"Experimental,Rock"
+Noname,Telefone,8.0,Rap
+Deafheaven,Sunbather,8.9,Metal
+Ariana Grande,Sweetener,7.9,Pop/R&B
+Altar of Plagues,Teethed Glory and Injury,6.8,"Metal,Rock"
+Klaxons,Surfing the Void,7.2,"Electronic,Rock"
+Dirty Projectors,Swing Lo Magellan,8.8,Rock
+Future & Young Thug,Super Slimey,7.1,Rap
+Jaden Smith,SYRE,5.1,Rap
+Kelela,Take Me Apart,8.6,Pop/R&B
+Explosions In the Sky,"""Take Care, Take Care, Take Care""",7.2,Rock
+Drake,Take Care,8.6,Rap
+Temples,Sun Structures,5.5,Rock
+Denzel Curry,TA13OO,7.7,Rap
+JPEGMAFIA x Freaky,The 2nd Amendment,SCORE ERROR,GENRES ERROR
+Car Seat Headrest,Teens of Denial,8.5,Rock
+Aphex Twin,Syro,8.7,Electronic
+Marching Church,Telling It Like It Is,6.4,Rock
+Car Seat Headrest,Teens of Style,8.1,Rock
+Courtney Barnett,Tell Me How You Really Feel,7.4,Rock
+Lil Yachty,Teenage Emotions,6.8,Rap
+billy woods,Terror Management,6.5,Rap
+Donnie Trumpet & the Social Experiment,Surf,8.3,"Pop/R&B,Rap"
+Parquet Courts,Sunbathing Animal,8.6,Rock
+A$AP Rocky,Testing,6.7,Rap
+Vektor,Terminal Redux,8.2,Metal
+Lycus,Tempest,7.9,Metal
+Metric,Synthetica,7.0,Rock
+Olga Bell,Tempo,7.9,Pop/R&B
+Foxygen,Take the Kids Off Broadway,7.9,Rock
+Liars,TFCF,7.5,Rock
+Lil Wayne,Tha Carter V,7.3,Rap
+Ariana Grande,"""thank u, next""",7.9,Pop/R&B
+Lil Wayne,Tha Carter IV,6.2,Rap
+Lupe Fiasco,Tetsuo & Youth,7.2,Rap
+Caribou,Swim,6.8,Electronic
+Beach House,Thank Your Lucky Stars,8.1,Rock
+Justin Timberlake,The 20/20 Experience,4.5,Pop/R&B
+Cattle Decapitation,The Anthropocene Extinction,SCORE ERROR,GENRES ERROR
+"""Royce da 5'9"""" """,The Allegory,SCORE ERROR,GENRES ERROR
+Lazer/Wulf,The Beast of Left and Right,SCORE ERROR,GENRES ERROR
+AJJ,The Bible 2,SCORE ERROR,GENRES ERROR
+Fashawn,The Ecology,SCORE ERROR,GENRES ERROR
+letlive.,The Blackest Beautiful,SCORE ERROR,GENRES ERROR
+My Chemical Romance,The Black Parade,SCORE ERROR,GENRES ERROR
+Dead In The Dirt,The Blind Hole,SCORE ERROR,GENRES ERROR
+Iron Maiden,The Book of Souls,SCORE ERROR,GENRES ERROR
+Ugly God,The Booty Tape,SCORE ERROR,GENRES ERROR
+Ulcerate,The Destroyers of All,SCORE ERROR,GENRES ERROR
+A$AP MOB,The Cozy Tapes Vol. 1: Friends,SCORE ERROR,GENRES ERROR
+Suns,The Engine Room,SCORE ERROR,GENRES ERROR
+The Game,The Documentary 2.5,SCORE ERROR,GENRES ERROR
+Iron Maiden,The Final Frontier,SCORE ERROR,GENRES ERROR
+Fallujah,The Flesh Prevails,SCORE ERROR,GENRES ERROR
+Janelle Monáe,The ArchAndroid,8.5,Pop/R&B
+Sufjan Stevens,The Age of Adz,8.4,Folk/Country
+Sleater-Kinney,The Center Won't Hold,7.9,Rock
+CHVRCHES,The Bones of What You Believe,8.5,Pop/R&B
+Vic Mensa,The Autobiography,6.9,Rap
+Protomartyr,The Agent Intellect,8.2,Rock
+PUP,The Dream Is Over,7.8,Rock
+Bat For Lashes,The Bride,7.6,Rock
+The Budos Band,The Budos Band III,7.6,"Global,Pop/R&B"
+Mr. Oizo,The Church,4.9,Electronic
+James Blake,The Colour In Anything,8.2,Pop/R&B
+Banks,The Altar,5.1,Pop/R&B
+Horse Lords,The Common Task,7.8,Experimental
+Melvins,The Bride Screamed Murder,5.2,"Metal,Rock"
+Chance the Rapper,The Big Day,6.9,Rap
+Red Hot Chili Peppers,The Getaway,5.4,Rock
+Liturgy,The Ark Work,6.4,Metal
+Pink Floyd,The Endless River,5.7,Rock
+Converge,The Dusk In Us,8.2,Metal
+Tribulation,The Children of the Night,8.4,Metal
+Muse,The 2nd Law,5.5,Rock
+Mac Miller,The Divine Feminine,7.8,Rap
+Thundercat,The Beyond / Where the Giants Roam,8.3,"Jazz,Pop/R&B"
+Wale,The Album About Nothing,5.4,Rap
+Future Islands,The Far Field,7.6,Rock
+Dizzy Wright,The Golden Age,SCORE ERROR,GENRES ERROR
+Kamasi Washington,The Epic,8.6,Jazz
+Metronomy,The English Riviera,6.4,Pop/R&B
+Hobo Johnson,The Fall of Hobo Johnson,3.6,"Rap,Rock"
+Lucinda Williams,The Ghosts of Highway 20,8.0,Folk/Country
+glass beach,the first glass beach album,7.2,Rock
+The Game,The Documentary 2,7.2,Rap
+Deradoorian,The Expanding Flower Planet,8.0,Experimental
+Swans,The Glowing Man,8.1,Rock
+Janelle Monáe,The Electric Lady,8.3,Pop/R&B
+Warpaint,The Fool,7.2,Rock
+Cannibal Ox,The Cold Vein,8.3,Rap
+Cakes Da Killa,The Eulogy,7.5,Rap
+Bobby Womack,The Bravest Man In the Universe,6.2,"Jazz,Rock"
+The Microphones,The Glow Pt. 2,9.3,"Experimental,Rock"
+Gorillaz,The Fall,5.8,"Electronic,Rock"
+Autopsy,The Headless Ritual,SCORE ERROR,GENRES ERROR
+Jon Bellion,The Human Condition,SCORE ERROR,GENRES ERROR
+Macklemore and Ryan Lewis,The Heist,SCORE ERROR,GENRES ERROR
+J.I.D,The Never Story,SCORE ERROR,GENRES ERROR
+Pianos Become the Teeth,The Lack Long After,SCORE ERROR,GENRES ERROR
+The Underachievers,The Lords of Flatbush MIXTAPE /,SCORE ERROR,GENRES ERROR
+A Tribe Called Quest,The Low End Theory,SCORE ERROR,GENRES ERROR
+Swain,The Long Dark Blue,SCORE ERROR,GENRES ERROR
+Cal Chuchesta,The New CALassic,SCORE ERROR,GENRES ERROR
+Uboa,The Origin of My Depression,SCORE ERROR,GENRES ERROR
+OFWGKTA,The OF Tape Vol. 2,SCORE ERROR,GENRES ERROR
+Marilyn Manson,The Pale Emperor,SCORE ERROR,GENRES ERROR
+Between the Buried and Me,The Parallax II: Future Sequence,SCORE ERROR,GENRES ERROR
+Cee Lo Green,The Lady Killer,7.3,Rap
+Thundercat,The Golden Age of Apocalypse,8.1,"Jazz,Pop/R&B"
+First  Aid Kit,The Lion's Roar,7.6,Folk/Country
+Pop. 1280,The Horror,7.5,Rock
+Takeoff,The Last Rocket,7.7,Rap
+Mick Jenkins,The Healing Component,7.6,Rap
+Bat For Lashes,The Haunted Man,8.4,Rock
+Bonobo,The North Borders,6.0,"Electronic,Jazz"
+Lauryn Hill,The Miseducation of Lauryn Hill,9.5,Pop/R&B
+James Holden,The Inheritors,8.2,Electronic
+The Strokes,The New Abnormal,5.7,Rock
+Logic,The Incredible True Story,6.1,Rap
+Ka,The Night's Gambit,8.0,Rap
+Pi'erre Bourne,The Life of Pi'erre 4,6.7,Rap
+Mastodon,The Hunter,7.5,Metal
+Death Grips,The Money Store,8.7,"Experimental,Rap"
+Aesop Rock,The Impossible Kid,8.2,Rap
+The Decemberists,The King Is Dead,7.2,Rock
+Deerhoof,The Magic,6.9,Experimental
+PJ Harvey,The Hope Six Demolition Project,7.6,Rock
+Anna Von Hausswolff,The Miraculous,7.8,Experimental
+Eminem,The Marshall Mathers LP 2,4.7,Rap
+Grouper,The Man Who Died In His Boat,8.3,Experimental
+King Krule,The OOZ,9.0,Rock
+Current 93,The Light Is Leaving Us All,7.2,Experimental
+Gorillaz,The Now Now,6.8,"Electronic,Rock"
+Fiona Apple,The Idler Wheel...,9.0,Rock
+Animal Collective,The Painters,6.1,Experimental
+Titus Andronicus,The Monitor,8.7,Rock
+YBN Cordae,The Lost Boy,7.0,Rap
+Blur,The Magic Whip,7.0,Rock
+Best Coast,The Only Place,6.2,Rock
+Iron Maiden,The Number of the Beast,7.0,Metal
+Titus Andronicus,The Most Lamentable Tragedy,8.1,Rock
+David Bowie,The Next Day,7.6,Rock
+Club 8,The People's Record,6.2,Rock
+Kanye West,The Life of Pablo,9.0,Rap
+Kanye West,The Life of Pablo,9.0,Rap
+Radiohead,The King of Limbs,7.9,Rock
+The Evens,The Odds,8.0,"Metal,Rock"
+Death Grips,The Powers That B (Niggas On the Moon / Jenny Death),SCORE ERROR,GENRES ERROR
+Benny the Butcher,The Plugs I Met,SCORE ERROR,GENRES ERROR
+Steven Wilson,The Raven That Refused To Sing (And Other Stories),SCORE ERROR,GENRES ERROR
+Mr. Yote,The Terrible Tales of Scurvy Jones,SCORE ERROR,GENRES ERROR
+Death Grips,The Powers That B Pt. 1 a.k.a. Niggas On The Moon,SCORE ERROR,GENRES ERROR
+David Bowie,The Rise and Fall of Ziggy Stardust and the Spiders from Mars,SCORE ERROR,GENRES ERROR
+Janet Jackson,The Velvet Rope,SCORE ERROR,GENRES ERROR
+9th Wonder,The Wonder Years,SCORE ERROR,GENRES ERROR
+Korn,The Serenity of Suffering,SCORE ERROR,GENRES ERROR
+La Dispute,The Rooms of the House,SCORE ERROR,GENRES ERROR
+Deathspell Omega,The Synarchy of Molten Bones,SCORE ERROR,GENRES ERROR
+Jaden Smith,The Sunset Tapes: A Cool Tape Story,SCORE ERROR,GENRES ERROR
+Lil Uzi Vert,The Perfect LUV Tape,6.9,Rap
+Mick Jenkins,The Water[s],SCORE ERROR,GENRES ERROR
+Otis Brown III,The Thought of You,SCORE ERROR,GENRES ERROR
+Clarence Clarity,Think: Peace,SCORE ERROR,GENRES ERROR
+Milo,Things That Happen At Day / Things That Happen At Night,SCORE ERROR,GENRES ERROR
+Lil Ugly Mane,Third Side of Tape,SCORE ERROR,GENRES ERROR
+Tame Impala,The Slow Rush,8.0,Rock
+Algiers,There Is No Year,6.0,Rock
+Explosions In the Sky,The Wilderness,8.0,Rock
+Future,The WIZRD,7.0,Rap
+Behemoth,The Satanist,8.2,Metal
+Arcade Fire,The Suburbs,8.6,Rock
+clipping.,There Existed an Addiction to Blood,4.5,Rap
+Death From Above 1979,The Physical World,7.0,Rock
+Have A Nice Life,The Unnatural World,7.8,
+Panopticon,The Scars of Man on the Once Nameless Wilderness,7.3,Metal
+Sleep,The Sciences,8.4,Metal
+Darkthrone,The Underground Resistance,7.4,Metal
+The Spits,The Spits,6.8,Rap
+Algiers,The Underside of Power,5.8,Rock
+Rich Brian,The Sailor,6.8,Rap
+John Prine,The Tree of Forgiveness,7.6,Folk/Country
+Curren$y,The Stoned Immaculate,7.1,Rap
+Vic Mensa,There's Alot Going On,7.5,Rap
+The Tallest Man On Earth,The Wild Hunt,8.5,Folk/Country
+The Tallest Man On Earth,There's No Leaving Now,7.1,Folk/Country
+Beach Slang,The Things We Do To Find People Who Feel Like Us,8.0,Rock
+Sam Smith,The Thrill of It All,5.8,Pop/R&B
+The Flaming Lips,The Terror,7.8,Rock
+Oxbow,Thin Black Duke,7.3,Metal
+Isaiah Rashad,The Sun's Tirade,8.1,Rap
+My Brightest Diamond,This Is My Hand,7.0,Rock
+Jenny Lewis,The Voyager,7.2,Rock
+Ab-Soul,These Days...,7.7,Rap
+Sun Kil Moon,This Is My Dinner,2.8,Folk/Country
+Beirut,The Rip Tide,7.7,Rock
+Marching Church,This World Is Not Enough,5.6,Rock
+Mac DeMarco,This Old Dog,7.9,Rock
+alt-J,This Is All Yours,4.0,Rock
+Wilco,The Whole Love,6.9,Rock
+Spoon,They Want My Soul,8.6,Rock
+Swans,The Seer,9.0,Rock
+The Books,The Way Out,7.7,"Experimental,Rock"
+Macklemore & Ryan Lewis,This Unruly Mess I've Made,5.1,Rap
+Sleater-Kinney,The Woods,9.0,Rock
+LCD Soundsystem,This Is Happening,9.2,"Electronic,Rock"
+Little Women,Throat,SCORE ERROR,GENRES ERROR
+Busdriver,Thumb,SCORE ERROR,GENRES ERROR
+Havok,Time Is Up,SCORE ERROR,GENRES ERROR
+Theophilus London,Timez Are Weird These Days,SCORE ERROR,GENRES ERROR
+Kraftwerk,Trans-Europe Express,SCORE ERROR,GENRES ERROR
+Kali Uchis,To Feel Alive,SCORE ERROR,GENRES ERROR
+Billy Woods,"""Today, I Wrote Nothing""",SCORE ERROR,GENRES ERROR
+Cerce,Tour Sampler CD-R,SCORE ERROR,GENRES ERROR
+Bas,Too High To Riot,SCORE ERROR,GENRES ERROR
+White Suns,Totem,SCORE ERROR,GENRES ERROR
+Master Musicians of Bukkake,Totem 3,SCORE ERROR,GENRES ERROR
+Disma,Towards the Megalith,SCORE ERROR,GENRES ERROR
+Kero Kero Bonito,TOTEP,SCORE ERROR,GENRES ERROR
+Ghoul,Transmission Zero,SCORE ERROR,GENRES ERROR
+Matmos and So Percussion,Treasure State,SCORE ERROR,GENRES ERROR
+twenty one pilots,Trench,SCORE ERROR,GENRES ERROR
+Daft Punk,Tron: Legacy SOUNDTRACK /,SCORE ERROR,GENRES ERROR
+Michael Cera,True That,SCORE ERROR,GENRES ERROR
+An Autumn For Crippled Children,Try Not To Destroy Everything You Love,SCORE ERROR,GENRES ERROR
+Wolves In the Throne Room,Thrice Woven,5.2,Metal
+Cavanaugh,Time & Materials,7.2,Rap
+Weyes Blood,Titanic Rising,8.5,Rock
+Turnstile,Time & Space,5.4,Rock
+Michael Jackson,Thriller,7.2,Pop/R&B
+Kero Kero Bonito,Time 'n' Place,6.5,Pop/R&B
+Louis Cole,Time,7.6,Electronic
+The New Pornographers,Together,7.3,Rock
+Arctic Monkeys,Tranquility Base Hotel + Casino,8.1,Rock
+Xibalba,Tierra Y Libertad,7.6,Metal
+FIDLAR,Too,5.8,Rock
+The National,Trouble Will Find Me,8.4,Rock
+Electric Wizard,Time To Die,7.9,
+Against Me!,Transgender Dysphoria Blues,7.5,Rock
+Omar Souleyman,"""To Syria, With Love""",6.5,Global
+Thom Yorke,Tomorrow's Modern Boxes,6.3,"Electronic,Rock"
+Autolux,Transit Transit,5.4,Rock
+La Roux,Trouble In Paradise,6.5,"Electronic,Rock"
+Foals,Total Life Forever,7.6,Rock
+Perfume Genius,Too Bright,8.5,Pop/R&B
+Lil Xan,Total Xanarchy,4.7,Rap
+Captain Beefheart,Trout Mask Replica,10.0,Experimental
+How To Dress Well,Total Loss,8.4,Pop/R&B
+The Comet Is Coming,Trust in the Lifeforce of the Deep Mystery,7.8,Jazz
+System of a Down,Toxicity,8.2,Metal
+Full of Hell,Trumpeting Ecstasy,7.7,Metal
+The Knife,"""Tomorrow, In a Year""",6.9,"Electronic,Experimental,Rock"
+Swans,To Be Kind,9.2,Rock
+Sharon Van Etten,Tramp,7.9,Rock
+A$AP Ferg,Trap Lord,7.5,Rap
+Bryson Tiller,True to Self,6.6,Pop/R&B
+Charli XCX,True Romance,8.3,Pop/R&B
+Boards of Canada,Tomorrow's Harvest,8.3,Electronic
+Panda Bear,Tomboy,8.5,Electronic
+The Mountain Goats,Transcendental Youth,7.8,Rock
+Kendrick Lamar,To Pimp A Butterfly,9.3,Rap
+Burial,Truant / Rough Sleeper,8.4,"Electronic,Experimental"
+Sleigh Bells,Treats,8.7,Pop/R&B
+Hella,Tripper,6.0,"Experimental,Rock"
+Shad,TSOL,7.2,"Pop/R&B,Rap"
+Skillet,Unleashed,SCORE ERROR,GENRES ERROR
+This Will Destroy You,Tunnel Blanket,SCORE ERROR,GENRES ERROR
+Denzel Curry x Kenny Beats,Unlocked,SCORE ERROR,GENRES ERROR
+Chelsea Wolfe,Unknown Rooms: A Collection of Acoustic Songs,SCORE ERROR,GENRES ERROR
+The Lonely Island,Turtleneck and Chain,SCORE ERROR,GENRES ERROR
+The Dismemberment Plan,Uncanny Valley,SCORE ERROR,GENRES ERROR
+Ghostface Killah and Adrian Younge,Twelve Reasons To Die,SCORE ERROR,GENRES ERROR
+Rammstein,Untitled,SCORE ERROR,GENRES ERROR
+Nails,Unsilent Death,SCORE ERROR,GENRES ERROR
+Havok,Unnatural Selection,SCORE ERROR,GENRES ERROR
+Superhumanoids,Urgency,SCORE ERROR,GENRES ERROR
+Big Ups,Two Parts Together,SCORE ERROR,GENRES ERROR
+Car Seat Headrest,Twin Fantasy (Face to Face),SCORE ERROR,GENRES ERROR
+Yung Lean,Unknown Death 2002,SCORE ERROR,GENRES ERROR
+Logic,Under Pressure,SCORE ERROR,GENRES ERROR
+Drenge,Undertow,SCORE ERROR,GENRES ERROR
+Bones,Useless,SCORE ERROR,GENRES ERROR
+Oranssi Pazuzu,Valonielu,SCORE ERROR,GENRES ERROR
+Vreid,V,SCORE ERROR,GENRES ERROR
+JMSN,Velvet,SCORE ERROR,GENRES ERROR
+EDEN,vertigo,SCORE ERROR,GENRES ERROR
+Botanist,VI: Flora,SCORE ERROR,GENRES ERROR
+Skepta,Vicious,SCORE ERROR,GENRES ERROR
+Flying Lotus,Until the Quiet Comes,8.5,Electronic
+Guerilla Toss,Twisted Crystal,7.3,Rock
+British Sea Power,Valhalla Dancehall,5.5,Rock
+Julien Baker,Turn Out the Lights,8.6,Rock
+The Roots,Undun,7.3,Rap
+Tobacco,Ultima II Massage,6.9,Electronic
+Kendrick Lamar,untitled unmastered.,8.6,Rap
+Big Thief,U.F.O.F.,9.2,Rock
+PartyNextDoor,Two,6.8,Pop/R&B
+Sun Kil Moon,Universal Themes,6.0,Folk/Country
+Big Thief,Two Hands,9.0,Rock
+Matmos,Ultimate Care II,7.8,Experimental
+Code Orange,Underneath,4.5,Metal
+Anderson .Paak,Ventura,6.9,Pop/R&B
+Lana Del Rey,Ultraviolence,7.1,Pop/R&B
+ORANSSI PAZUZU,Värähtelijä,7.9,Metal
+JPEGMAFIA,Veteran,7.7,Rap
+Danny Brown,uknowhatimsayin¿,8.1,Rap
+Yung Lean,Unknown Memory,3.6,Rap
+Machine Girl,U-Void Synthesizer,7.8,"Electronic,Experimental,Metal"
+Cult of Luna,Vertikal,6.8,
+Julian Casablancas + The Voidz,Tyranny,4.9,"Electronic,Rock"
+Ibibio Sound Machine,Uyai,7.0,"Global,Pop/R&B"
+The Black Keys,Turn Blue,5.8,Rock
+Flatbush Zombies,Vacation in Hell,7.1,Rap
+Imperial Triumphant,Vile Luxury,SCORE ERROR,GENRES ERROR
+Mission of Burma,Unsound,7.7,
+Machinedrum,Vapor City,5.8,Electronic
+Sigur Rós,Valtari,6.1,Rock
+Neon Indian,VEGA INTL. Night School,8.6,Electronic
+Drake,Views,6.8,Rap
+Björk,Utopia,8.4,"Electronic,Pop/R&B"
+M.I.A.,ViCKi LEEKX,7.8,"Global,Pop/R&B"
+Shlohmo,Vacation,7.5,Electronic
+Squarepusher,Ufabulum,6.3,Electronic
+Toro Y Moi,Underneath the Pine,8.3,Electronic
+Joy Division,Unknown Pleasures,10.0,Rock
+Fergus & Geronimo,Unlearn,7.2,"Electronic,Experimental,Rock"
+Portal,Vexovoid,8.0,Metal
+Burial,Untrue,8.4,"Electronic,Experimental"
+Wavves,V,6.5,Rock
+Wormrot,Voices,SCORE ERROR,GENRES ERROR
+City Morgue,Vol. 2: As Good as Dead,SCORE ERROR,GENRES ERROR
+City Morgue,Vol. 1: Hell or High Water,SCORE ERROR,GENRES ERROR
+Wendy's,We Beefin?,SCORE ERROR,GENRES ERROR
+Roy Woods,Waking At Dawn,SCORE ERROR,GENRES ERROR
+Onyx,Wakedafucup,SCORE ERROR,GENRES ERROR
+Yung Lean,Warlord,SCORE ERROR,GENRES ERROR
+Lil Herb,Welcome To Fazoland,SCORE ERROR,GENRES ERROR
+Haunted Horses,Watcher,SCORE ERROR,GENRES ERROR
+Mick Jenkins,Wave[s],SCORE ERROR,GENRES ERROR
+Slaughterhouse,Welcome to: Our House,SCORE ERROR,GENRES ERROR
+Jeff Rosenstock,We Cool?,SCORE ERROR,GENRES ERROR
+Aries,Welcome Home,SCORE ERROR,GENRES ERROR
+Jon Benjamin,"""well, i should have...*""",SCORE ERROR,GENRES ERROR
+HMLTD,West of Eden,SCORE ERROR,GENRES ERROR
+The Vaccines,What Did You Expect From the Vaccines?,SCORE ERROR,GENRES ERROR
+Toro Y Moi,What For?,SCORE ERROR,GENRES ERROR
+Open Mike Eagle,What Happens When I Try to Relax,SCORE ERROR,GENRES ERROR
+Milo,Who Told You To Think??!!?!?!?!,SCORE ERROR,GENRES ERROR
+Deadmau5,While (1 Is Less Than 2),SCORE ERROR,GENRES ERROR
+The World Is A Beautiful Place And I Am No Longer Afraid To Die,"""Whenever, If Ever""",SCORE ERROR,GENRES ERROR
+Noel Gallagher's High Flying Birds,Who Built the Moon?,SCORE ERROR,GENRES ERROR
+The Soft Pink Truth,Why Do The Heathen Rage?,SCORE ERROR,GENRES ERROR
+Deerhunter,Why Hasn't Everything Already Disappeared?,SCORE ERROR,GENRES ERROR
+Hot Chip,Why Make Sense?,SCORE ERROR,GENRES ERROR
+Queens of the Stone Age,Villains,6.9,Rock
+Grimes,Visions,8.5,Pop/R&B
+Björk,Vulnicura,6.8,"Electronic,Pop/R&B"
+The Voidz,Virtue,6.9,Rock
+Mac Miller,Watching Movies With the Sound Off,7.0,Rap
+Foxygen,We Are the 21st Century Ambassadors of Peace & Magic,8.4,Rock
+Charli XCX,Vroom Vroom,4.5,Pop/R&B
+Kanye West & Jay-Z,Watch the Throne,8.5,Rap
+Slipknot,We Are Not Your Kind,6.7,Metal
+Full of Hell,Weeping Choir,7.5,Metal
+Veronica Falls,Waiting For Something To Happen,7.5,"Experimental,Rock"
+P.O.S,We Don't Even Live Here,5.7,Rap
+Wreck and Reference,Want,7.7,Metal
+G-Eazy,When it's Dark Out,6.7,Rap
+Lapalux,When You're Gone,7.4,Electronic
+Tierra Whack,Whack World,8.3,Rap
+Tim Hecker,Virgins,8.3,Experimental
+Foo Fighters,Wasting Light,6.4,Rock
+Evian Christ,Waterfall,7.3,Electronic
+Pissed Jeans,Why Love Now,7.9,Rock
+Planningtorock,W,6.7,"Electronic,Rock"
+OFF!,Wasted Years,6.2,"Metal,Rock"
+Gil-Scott Heron & Makaya McCraven,We're New Again,8.6,Jazz
+Kurt Vile,Wakin On A Pretty Daze,8.5,Rock
+Billie Eilish,"""When We All Fall Asleep, Where Do We Go?""",7.2,Pop/R&B
+Gus Dapperton,Where Polly People Go to Read,6.4,Pop/R&B
+A Tribe Called Quest,We Got It from Here... Thank You 4 Your Service,9.0,Rap
+Drake & Future,What A Time To Be Alive,7.0,Rap
+Action Bronson,White Bronco,5.1,Rap
+Young Fathers,White Men Are Black Men Too,6.8,Rap
+Parquet Courts,Wide Awake!,8.0,Rock
+Foals,What Went Down,6.7,Rock
+Chromeo,White Women,7.6,Electronic
+Dragged Into Sunlight,Widowmaker,6.2,
+Solange,When I Get Home,8.4,Pop/R&B
+tUnE-yArDs,W H O K I L L,8.8,Pop/R&B
+The Cool Kids,When Fish Ride Bicycles,6.9,Rap
+John Vanderslice,White Wilderness,7.2,Rock
+Ratking,Wiki93,5.8,Rap
+Suckers,Wild Smile,7.7,"Electronic,Rock"
+La Dispute,Wildlife,SCORE ERROR,GENRES ERROR
+Jeffrey Lewis,Works by Tuli Kupferberg (1923​-​2010),SCORE ERROR,GENRES ERROR
+clipping.,Wriggle,SCORE ERROR,GENRES ERROR
+"""Iglooghost, Kai Whiston & BABii """,XYZ,SCORE ERROR,GENRES ERROR
+Dying Fetus,Wrong One to Fuck With,SCORE ERROR,GENRES ERROR
+Moonface,With Siinai: Heartbreaking Bravery,SCORE ERROR,GENRES ERROR
+WZRD,WZRD,SCORE ERROR,GENRES ERROR
+Uncommon Nasa,Written At Night,SCORE ERROR,GENRES ERROR
+Baroness,Yellow and Green,SCORE ERROR,GENRES ERROR
+Ski Mask the Slump God,You Will Regret,SCORE ERROR,GENRES ERROR
+The Avalanches,Wildflower,8.5,Electronic
+Arca,Xen,8.4,Experimental
+Rhye,Woman,8.5,Pop/R&B
+Miguel,Wildheart,8.9,Pop/R&B
+"""21 Savage, Offset & Metro Boomin """,Without Warning,8.0,Rap
+Washed Out,Within and Without,8.3,Electronic
+Blanck Mass,World Eater,8.1,Electronic
+Bad Bunny,X 100PRE,8.2,Rap
+Liars,WIXIW,7.8,Rock
+Katy Perry,Witness,4.8,Pop/R&B
+"""Tyler, The Creator """,Wolf,7.8,Rap
+SBTRKT,Wonder Where We Land,5.5,"Electronic,Rock"
+Krallice,Years Past Matter,8.2,Metal
+Justice,Woman,7.7,Rock
+Krallice,Ygg Huur,8.2,Metal
+Zs,Xe,8.0,Jazz
+Heems,Wild Water Kingdom,7.2,Rap
+NxWorries,Yes Lawd!,7.4,Pop/R&B
+Portugal. The Man,Woodstock,6.6,Rock
+Zomby,With Love,7.9,Electronic
+Griselda,WWCD,7.7,Rap
+Quasimoto,Yessir Whatever,7.4,Rap
+The Killers,Wonderful Wonderful,6.3,Rock
+Nails,You Will Never Be One of Us,7.8,Metal
+Jeff Rosenstock,Worry,8.0,Rock
+Morrissey,World Peace is None of Your Business,5.9,Rock
+Kindness,"""World, You Need a Change of Mind""",6.4,"Electronic,Rock"
+Porter Robinson,Worlds,5.9,Electronic
+Future & Juice WRLD,WRLD on Drugs,6.3,Rap
+Freddie Gibbs,You Only Live 2wice,7.5,Rap
+Death Grips,Year of the Snitch,7.3,"Experimental,Rap"
+Kanye West,ye,7.1,Rap
+Bad Bunny,YHLQMDLG,8.5,Rap
+Daughters,You Won't Get What You Want,8.0,Rock
+Kanye West,Yeezus,9.5,Rap
+Goat,World Music,8.1,Experimental
+Black Mountain,Wilderness Heart,7.4,Rock
+Unsane,Wreck,7.6,Rock
+Danny Brown,XXX,8.2,Rap
+Active Child,You Are All I See,7.2,Rock
+NIKI,Zephyr,SCORE ERROR,GENRES ERROR
+Logic,YSIV,SCORE ERROR,GENRES ERROR
+The Log.Os,λόγος,SCORE ERROR,GENRES ERROR
+Arckanum,ÞÞÞÞÞÞÞÞÞÞÞ,SCORE ERROR,GENRES ERROR
+Russ,Zoo,SCORE ERROR,GENRES ERROR
+Chelsea Wolfe,Ἀποκάλυψις (Apocalypse / Apokalypsis),SCORE ERROR,GENRES ERROR
+Pile,You're Better Than This,7.4,Rock
+Wavves,You're Welcome,6.0,Rock
+Sons of Kemet,Your Queen Is a Reptile,7.6,Jazz
+Iceage,You're Nothing,8.6,Rock
+Andrew W.K.,You're Not Alone,6.6,Rock
+Tennis,Young & Old,6.3,Rock
+Young Thug & Carnage,Young Martha,7.2,"Rap,Electronic"
+Flying Lotus,You're Dead,8.3,Electronic
+Denzel Curry,ZUU,8.3,Rap
+The Soft Moon,Zeros,7.0,Rock
+SZA,Z,5.9,Pop/R&B
+Cut Copy,Zonoscope,8.6,Rock
